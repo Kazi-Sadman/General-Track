@@ -1,0 +1,4259 @@
+AIUB FACULTY DIRECTORY
+======================
+
+Source: American International University-Bangladesh (AIUB) faculty directory data supplied by the user.
+Total faculty records: 425
+
+RAG FORMAT:
+Each faculty member is stored as an independent text record so that retrieval can return a focused faculty profile.
+Fields: Name, Academic Rank, Administrative Role, Faculty, Email, Profile URL.
+
+FACULTY RECORD 1
+Name: MASHIOUR RAHMAN
+Academic Rank: senior associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mashiour@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mashiour
+
+---
+
+FACULTY RECORD 2
+Name: PROF. DR. DIP NANDI
+Academic Rank: professor
+Administrative Role: DEAN
+Faculty: faculty of science & technology
+Email: dip.nandi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dip.nandi
+
+---
+
+FACULTY RECORD 3
+Name: DR. MOHAMMED JASHIM UDDIN
+Academic Rank: professor
+Administrative Role: Convenor [Research and Publication]
+Faculty: faculty of science & technology
+Email: drjashim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=drjashim
+
+---
+
+FACULTY RECORD 4
+Name: PROF. DR. KH. ABDUL MALEQUE
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: maleque@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=maleque
+
+---
+
+FACULTY RECORD 5
+Name: DR. SARFUDDIN AHMED TAREK
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: satarek@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=satarek
+
+---
+
+FACULTY RECORD 6
+Name: DR. AFROZA NAHAR
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: afroza@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=afroza
+
+---
+
+FACULTY RECORD 7
+Name: DR. S. A. M. MANZUR H. KHAN
+Academic Rank: professor
+Administrative Role: PROCTOR
+Faculty: faculty of science & technology
+Email: manzur@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=manzur
+
+---
+
+FACULTY RECORD 8
+Name: DR. S. MOSADDEQ AHMED
+Academic Rank: professor
+Administrative Role: Department Head
+Faculty: faculty of science & technology
+Email: smahmed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=smahmed
+
+---
+
+FACULTY RECORD 9
+Name: DR. REZAUL K. SIDDIQUE
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: siddiquerk@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=siddiquerk
+
+---
+
+FACULTY RECORD 10
+Name: DR. MD. HABIB ULLAH
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: habib583@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=habib583
+
+---
+
+FACULTY RECORD 11
+Name: DR. MADHABI ISLAM
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: drmadhabi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=drmadhabi
+
+---
+
+FACULTY RECORD 12
+Name: PROF. DR. MD. RAFIQUL ISLAM
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: dmri@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dmri
+
+---
+
+FACULTY RECORD 13
+Name: DR. KHANDAKER TABIN HASAN
+Academic Rank: professor
+Administrative Role: Associate Dean
+Faculty: faculty of science & technology
+Email: tabin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tabin
+
+---
+
+FACULTY RECORD 14
+Name: DR. M. MOSTAFIZUR RAHMAN
+Academic Rank: professor
+Administrative Role: Department Head
+Faculty: faculty of science & technology
+Email: mostafiz.math@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mostafiz.math
+
+---
+
+FACULTY RECORD 15
+Name: DR. MOHAMMAD MAHBUB RABBANI
+Academic Rank: professor
+Administrative Role: Deputy Director [Dr. Anwarul Abedin Institute of Innovation]
+Faculty: faculty of science & technology
+Email: mmrabbani@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mmrabbani
+
+---
+
+FACULTY RECORD 16
+Name: DR. KAMRUDDIN MD. NUR
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: kamruddin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kamruddin
+
+---
+
+FACULTY RECORD 17
+Name: DR. MUHAMMAD FIROZ MRIDHA
+Academic Rank: professor
+Administrative Role: Head [Undergraduate Program]
+Faculty: faculty of science & technology
+Email: firoz.mridha@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=firoz.mridha
+
+---
+
+FACULTY RECORD 18
+Name: DR. FIROZ AHMED
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: fahmed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fahmed
+
+---
+
+FACULTY RECORD 19
+Name: MD. ANWARUL KABIR
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: kabir@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kabir
+
+---
+
+FACULTY RECORD 20
+Name: DR. FARZANA SABETH
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: fsabeth@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fsabeth
+
+---
+
+FACULTY RECORD 21
+Name: MD. MANIRUL ISLAM
+Academic Rank: associate professor
+Administrative Role: DIRECTOR
+Faculty: faculty of science & technology
+Email: manirul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=manirul
+
+---
+
+FACULTY RECORD 22
+Name: DR. MD. SAIFUL ISLAM
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sislam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sislam
+
+---
+
+FACULTY RECORD 23
+Name: DR. NUSRAT JAHAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: njahan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=njahan
+
+---
+
+FACULTY RECORD 24
+Name: DR. NAHAR SULTANA
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: nahar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nahar
+
+---
+
+FACULTY RECORD 25
+Name: DR. ABHIJIT BHOWMIK
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: abhijit@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=abhijit
+
+---
+
+FACULTY RECORD 26
+Name: DR. FATEMA TUZ ZOHRA
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: fatema@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fatema
+
+---
+
+FACULTY RECORD 27
+Name: DR. HUMAYRA FERDOUS
+Academic Rank: associate professor
+Administrative Role: Department Head
+Faculty: faculty of science & technology
+Email: hferdous@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hferdous
+
+---
+
+FACULTY RECORD 28
+Name: DR. MAHFUZA KHATUN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mahfuza@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahfuza
+
+---
+
+FACULTY RECORD 29
+Name: DR. AFSAH SHARMIN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: afsah@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=afsah
+
+---
+
+FACULTY RECORD 30
+Name: DR. ABDUS SALAM
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: abdus.salam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=abdus.salam
+
+---
+
+FACULTY RECORD 31
+Name: DR. MD. SAEF ULLAH MIAH
+Academic Rank: associate professor
+Administrative Role: DIRECTOR
+Faculty: faculty of science & technology
+Email: saef@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=saef
+
+---
+
+FACULTY RECORD 32
+Name: DR. MOHAMMAD TARIQUL ISLAM
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: tariquldu@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tariquldu
+
+---
+
+FACULTY RECORD 33
+Name: MOHAMMAD SAMAWAT ULLAH
+Academic Rank: associate professor (on leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: samawat@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=samawat
+
+---
+
+FACULTY RECORD 34
+Name: DR. MD. MANZURUL HASAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: manzurul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=manzurul
+
+---
+
+FACULTY RECORD 35
+Name: DR. MOHAMMAD MAHMUDUL HASAN
+Academic Rank: associate professor
+Administrative Role: Member [Research & Publication Steering Committee]
+Faculty: faculty of science & technology
+Email: m.hasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=m.hasan
+
+---
+
+FACULTY RECORD 36
+Name: MD. MORTUZA AHMMED
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mortuza@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mortuza
+
+---
+
+FACULTY RECORD 37
+Name: DR. AKINUL ISLAM JONY
+Academic Rank: associate professor (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: akinul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=akinul
+
+---
+
+FACULTY RECORD 38
+Name: DR. MD. ABDULLAH - AL - JUBAIR
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: abdullah@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=abdullah
+
+---
+
+FACULTY RECORD 39
+Name: DR. FARZANA KHALIL
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: farzana.khalil@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farzana.khalil
+
+---
+
+FACULTY RECORD 40
+Name: DR. MD. MOZAHAR ALI
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mozahar.ali@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mozahar.ali
+
+---
+
+FACULTY RECORD 41
+Name: DR. RAZUAN KARIM
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rkarim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rkarim
+
+---
+
+FACULTY RECORD 42
+Name: DR. JYOTISH CHANDRA DEBNATH
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: dr.debnath@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dr.debnath
+
+---
+
+FACULTY RECORD 43
+Name: DR. MUHAMMAD HASIBUR RASHID CHAYON
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: chayon@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=chayon
+
+---
+
+FACULTY RECORD 44
+Name: DR. FAIZ AL FAISAL
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: faiz.faisal@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=faiz.faisal
+
+---
+
+FACULTY RECORD 45
+Name: SALMA BEGOM
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: salma@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=salma
+
+---
+
+FACULTY RECORD 46
+Name: DANILO G. MORGIA
+Academic Rank: senior assistant professor
+Administrative Role: Director [IT Operations]
+Faculty: faculty of science & technology
+Email: danny@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=danny
+
+---
+
+FACULTY RECORD 47
+Name: DR. MD. NURUL KABIR BHUIYAN
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: bhuiyan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=bhuiyan
+
+---
+
+FACULTY RECORD 48
+Name: TANZIA ZERIN KHAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: tanzia@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tanzia
+
+---
+
+FACULTY RECORD 49
+Name: A.G.M. ZAMAN
+Academic Rank: assistant professor (on study leave)
+Administrative Role: Assessor [IQAC]
+Faculty: faculty of science & technology
+Email: agmzaman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=agmzaman
+
+---
+
+FACULTY RECORD 50
+Name: PRODIP KUMAR GHOSE
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: prodip@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=prodip
+
+---
+
+FACULTY RECORD 51
+Name: REZWAN AHMED
+Academic Rank: assistant professor (on leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: a.rezwan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=a.rezwan
+
+---
+
+FACULTY RECORD 52
+Name: AYESHA SIDDIQUA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: ayesha.siddiqua@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ayesha.siddiqua
+
+---
+
+FACULTY RECORD 53
+Name: RUTABA JANIA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rutaba@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rutaba
+
+---
+
+FACULTY RECORD 54
+Name: SHARFUDDIN MAHMOOD
+Academic Rank: assistant professor
+Administrative Role: Special Assistant [OSA]
+Faculty: faculty of science & technology
+Email: smahmood@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=smahmood
+
+---
+
+FACULTY RECORD 55
+Name: MD. MAHFUZUR RHAMAN
+Academic Rank: assistant professor (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mmrhaman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mmrhaman
+
+---
+
+FACULTY RECORD 56
+Name: SHAHRIN CHOWDHURY
+Academic Rank: assistant professor (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: shahrin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shahrin
+
+---
+
+FACULTY RECORD 57
+Name: TOHEDUL ISLAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: islamtohedul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=islamtohedul
+
+---
+
+FACULTY RECORD 58
+Name: MD. HASIBUL HASAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: hasib.hasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hasib.hasan
+
+---
+
+FACULTY RECORD 59
+Name: VICTOR STANY ROZARIO
+Academic Rank: assistant professor
+Administrative Role: Special Assistant [CS]
+Faculty: faculty of science & technology
+Email: stany@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=stany
+
+---
+
+FACULTY RECORD 60
+Name: KAWSER IROM RUSHEE
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rushee@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rushee
+
+---
+
+FACULTY RECORD 61
+Name: ROUSHANARA BEGUM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: roushan.begum@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=roushan.begum
+
+---
+
+FACULTY RECORD 62
+Name: JUENA AHMED NOSHIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: juena@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=juena
+
+---
+
+FACULTY RECORD 63
+Name: MOHAIMEN- BIN- NOOR
+Academic Rank: assistant professor
+Administrative Role: Special Assistant [CS]
+Faculty: faculty of science & technology
+Email: mohaimen.niloy@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mohaimen.niloy
+
+---
+
+FACULTY RECORD 64
+Name: MD. AL-AMIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: alamin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=alamin
+
+---
+
+FACULTY RECORD 65
+Name: SIFAT RAHMAN AHONA
+Academic Rank: assistant professor
+Administrative Role: Special Assistant [OSA]
+Faculty: faculty of science & technology
+Email: ahona@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ahona
+
+---
+
+FACULTY RECORD 66
+Name: BITHI PAUL
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: bithi.paul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=bithi.paul
+
+---
+
+FACULTY RECORD 67
+Name: RIFAT TASNIM ANANNYA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rifat.tasnim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rifat.tasnim
+
+---
+
+FACULTY RECORD 68
+Name: KHADIZA AKTER MITU
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: khadiza@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=khadiza
+
+---
+
+FACULTY RECORD 69
+Name: DR. ASHRAF UDDIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: dr.ashraf@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dr.ashraf
+
+---
+
+FACULTY RECORD 70
+Name: WARDAH SALEH
+Academic Rank: assistant professor (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: wardah@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=wardah
+
+---
+
+FACULTY RECORD 71
+Name: MD. KISHOR MOROL
+Academic Rank: assistant professor (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: kishor@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kishor
+
+---
+
+FACULTY RECORD 72
+Name: ZASMIN HAQUE
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: zasmin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=zasmin
+
+---
+
+FACULTY RECORD 73
+Name: TANVIR AHMED
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: tanvir.ahmed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tanvir.ahmed
+
+---
+
+FACULTY RECORD 74
+Name: ANEEM AL AHSAN RUPAI
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: aneem@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=aneem
+
+---
+
+FACULTY RECORD 75
+Name: SAZZAD HOSSAIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sazzad@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sazzad
+
+---
+
+FACULTY RECORD 76
+Name: DIPTA JUSTIN GOMES
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: diptagomes@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=diptagomes
+
+---
+
+FACULTY RECORD 77
+Name: MD. SIYAMUL ISLAM
+Academic Rank: assistant professor (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: siyamul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=siyamul
+
+---
+
+FACULTY RECORD 78
+Name: DR. MD MEHEDI HASAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mmhasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mmhasan
+
+---
+
+FACULTY RECORD 79
+Name: MD. MEHEDI HASSAN ONIK
+Academic Rank: assistant professor (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mehedi.onik@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mehedi.onik
+
+---
+
+FACULTY RECORD 80
+Name: MD. NAZMUL HOSSAIN
+Academic Rank: assistant professor (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: nazmul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nazmul
+
+---
+
+FACULTY RECORD 81
+Name: RIFATH MAHMUD
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rifath.mahmud@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rifath.mahmud
+
+---
+
+FACULTY RECORD 82
+Name: KAZI SADIA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: kazi.sadia@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kazi.sadia
+
+---
+
+FACULTY RECORD 83
+Name: SYEDA ANIKA TASNIM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: anika.tasnim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=anika.tasnim
+
+---
+
+FACULTY RECORD 84
+Name: DR. SHOVAN KUMAR KUNDU
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: shovan.kundu@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shovan.kundu
+
+---
+
+FACULTY RECORD 85
+Name: DR. MAHJABIN TASKIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mtaskin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mtaskin
+
+---
+
+FACULTY RECORD 86
+Name: DR. DILRUBA YASMIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: dilruba.yasmin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dilruba.yasmin
+
+---
+
+FACULTY RECORD 87
+Name: MAHFUJUR RAHMAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mahfuj@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahfuj
+
+---
+
+FACULTY RECORD 88
+Name: MD. MAZID-UL-HAQUE
+Academic Rank: assistant professor
+Administrative Role: Special Assistant [OSA]
+Faculty: faculty of science & technology
+Email: mazid@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mazid
+
+---
+
+FACULTY RECORD 89
+Name: DR. M M MANJURUL ISLAM
+Academic Rank: assistant professor (on leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: manjurul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=manjurul
+
+---
+
+FACULTY RECORD 90
+Name: DR. HOSSAIN MD. SHAKHAWAT
+Academic Rank: assistant professor (on leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: shakhawat@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shakhawat
+
+---
+
+FACULTY RECORD 91
+Name: MD SAJID BIN-FAISAL
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sajid@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sajid
+
+---
+
+FACULTY RECORD 92
+Name: DR. MOHAMMAD ANISUR RAHMAN JAMIL
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: anisur.jamil@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=anisur.jamil
+
+---
+
+FACULTY RECORD 93
+Name: DR. SAIFUL ISLAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: saiful@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=saiful
+
+---
+
+FACULTY RECORD 94
+Name: K. M. IMTIAZ-UD-DIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: k.m.imtiaz@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=k.m.imtiaz
+
+---
+
+FACULTY RECORD 95
+Name: ISRAT JAHAN MOURI
+Academic Rank: assistant professor (on leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: israt.mouri@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=israt.mouri
+
+---
+
+FACULTY RECORD 96
+Name: DR. MD IFTEKHARUL MOBIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: iftekhar.mobin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=iftekhar.mobin
+
+---
+
+FACULTY RECORD 97
+Name: DR. MOHAMMAD RABIUL ISLAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rabiul.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rabiul.islam
+
+---
+
+FACULTY RECORD 98
+Name: DR. MD. SAROWAR HOSSAIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sakil_phy@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sakil_phy
+
+---
+
+FACULTY RECORD 99
+Name: DR. JANNATUL FARDUS
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: jannatul.fardus@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=jannatul.fardus
+
+---
+
+FACULTY RECORD 100
+Name: DR. SALAIKA PARVIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: skparvin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=skparvin
+
+---
+
+FACULTY RECORD 101
+Name: DR. JAHIDA BINTE ISLAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: dr.jbislam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dr.jbislam
+
+---
+
+FACULTY RECORD 102
+Name: DR. ABDULLAH AL NAHID
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: dr.anahid@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dr.anahid
+
+---
+
+FACULTY RECORD 103
+Name: DR. SHARMIN JAHAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sharmin.phy@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sharmin.phy
+
+---
+
+FACULTY RECORD 104
+Name: TONNY SHEKHA KAR
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: tonny.kar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tonny.kar
+
+---
+
+FACULTY RECORD 105
+Name: AMINUN NAHAR
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: aminun.nahar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=aminun.nahar
+
+---
+
+FACULTY RECORD 106
+Name: DR. SAMIYA MAHJABIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: samiya.mahjabin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=samiya.mahjabin
+
+---
+
+FACULTY RECORD 107
+Name: NUZHAT TABASSUM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: nuzhat.tabassum@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nuzhat.tabassum
+
+---
+
+FACULTY RECORD 108
+Name: DR. RAJARSHI ROY CHOWDHURY
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rajarshi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rajarshi
+
+---
+
+FACULTY RECORD 109
+Name: RAHNUMA TASMIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: tasmin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tasmin
+
+---
+
+FACULTY RECORD 110
+Name: DR. NAZIB ABDUN NASIR
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: nazib.nasir@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nazib.nasir
+
+---
+
+FACULTY RECORD 111
+Name: DR. MD. ASHADUZZAMAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: ashad@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ashad
+
+---
+
+FACULTY RECORD 112
+Name: DR. MOUSUMI BALA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mousumi.bala@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mousumi.bala
+
+---
+
+FACULTY RECORD 113
+Name: MD SAMIUL ISLAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: samiul.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=samiul.islam
+
+---
+
+FACULTY RECORD 114
+Name: DR. MOHAMMAD NAZMUL ALAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: nazmul.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nazmul.alam
+
+---
+
+FACULTY RECORD 115
+Name: KAZI ASIF AHMED
+Academic Rank: senior lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: kazi.asif@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kazi.asif
+
+---
+
+FACULTY RECORD 116
+Name: ZAHIDUDDIN AHMED
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: zahid@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=zahid
+
+---
+
+FACULTY RECORD 117
+Name: MD. ASIFUL ISLAM
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: asiful.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=asiful.islam
+
+---
+
+FACULTY RECORD 118
+Name: ASMA FARIHA
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: asma.fariha@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=asma.fariha
+
+---
+
+FACULTY RECORD 119
+Name: FAHMIDA ALAM
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: fahmida@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fahmida
+
+---
+
+FACULTY RECORD 120
+Name: FARZANA BENTE ALAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: farzana.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farzana.alam
+
+---
+
+FACULTY RECORD 121
+Name: SUPTA RICHARD PHILIP
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: richard@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=richard
+
+---
+
+FACULTY RECORD 122
+Name: NAZMUS SAKIB SHAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: shan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shan
+
+---
+
+FACULTY RECORD 123
+Name: RASHIDUL HASAN NABIL
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rashidul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rashidul
+
+---
+
+FACULTY RECORD 124
+Name: MIR MD. KAWSUR
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: kawsur@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kawsur
+
+---
+
+FACULTY RECORD 125
+Name: MD. ISMAIL HOSSEN
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: ismail.hossen@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ismail.hossen
+
+---
+
+FACULTY RECORD 126
+Name: NAZIA ALFAZ
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: nazia.alfaz@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nazia.alfaz
+
+---
+
+FACULTY RECORD 127
+Name: ANJIR AHMED CHOWDHURY
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: anjir@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=anjir
+
+---
+
+FACULTY RECORD 128
+Name: ARGHO DAS
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: argho@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=argho
+
+---
+
+FACULTY RECORD 129
+Name: MST. TASNIM PERVIN
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: tasnim.pervin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tasnim.pervin
+
+---
+
+FACULTY RECORD 130
+Name: METHILA FARZANA WOISHE
+Academic Rank: lecturer (on maternity leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: woishe@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=woishe
+
+---
+
+FACULTY RECORD 131
+Name: SYMA KAMAL CHAITY
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: chaity@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=chaity
+
+---
+
+FACULTY RECORD 132
+Name: NYME AHMED
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: nyme.ahmed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nyme.ahmed
+
+---
+
+FACULTY RECORD 133
+Name: RIFAT IBN ALAM
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rifat.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rifat.alam
+
+---
+
+FACULTY RECORD 134
+Name: SYED NAFIUL SHEFAT
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: nafiul.shefat@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nafiul.shefat
+
+---
+
+FACULTY RECORD 135
+Name: S M ABDULLAH SHAFI
+Academic Rank: lecturer
+Administrative Role: Special Assistant [OSA]
+Faculty: faculty of science & technology
+Email: shafi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shafi
+
+---
+
+FACULTY RECORD 136
+Name: SHAKILA RAHMAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: Shakila.Rahman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=Shakila.Rahman
+
+---
+
+FACULTY RECORD 137
+Name: ANGKITA MISTRY TAMA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: angkitatama@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=angkitatama
+
+---
+
+FACULTY RECORD 138
+Name: MD. HAFIJUR RAHMAN
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: hafij@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hafij
+
+---
+
+FACULTY RECORD 139
+Name: MD MOMAN UL HAQUE KHAN
+Academic Rank: lecturer (on study leave)
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: moman.khan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=moman.khan
+
+---
+
+FACULTY RECORD 140
+Name: SIRAJUM MUNIRA SHIFAT
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: munirasirajum@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=munirasirajum
+
+---
+
+FACULTY RECORD 141
+Name: JUBAYER AHAMED
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: jubayer@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=jubayer
+
+---
+
+FACULTY RECORD 142
+Name: NOBORANJAN DEY
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: noboranjan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=noboranjan
+
+---
+
+FACULTY RECORD 143
+Name: SAMIRA SALAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: samira.salam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=samira.salam
+
+---
+
+FACULTY RECORD 144
+Name: MD. MEHEDI HASAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: md.hasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=md.hasan
+
+---
+
+FACULTY RECORD 145
+Name: MD. FAYZ-AL- ASAD
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: fayz.math@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fayz.math
+
+---
+
+FACULTY RECORD 146
+Name: MST. UMMAY SUMAYA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: ummay.sumaya@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ummay.sumaya
+
+---
+
+FACULTY RECORD 147
+Name: MD. ARIFUL ISLAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: ariful@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ariful
+
+---
+
+FACULTY RECORD 148
+Name: TAMANNA ZAMAN BRISTY
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: tamannabristy@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tamannabristy
+
+---
+
+FACULTY RECORD 149
+Name: SHAIKAT DAS JOY
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: skdas@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=skdas
+
+---
+
+FACULTY RECORD 150
+Name: SAIKAT BAUL
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: saikatbaul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=saikatbaul
+
+---
+
+FACULTY RECORD 151
+Name: SYEDA ASRAFA ISLAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: syeda.asrafa@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=syeda.asrafa
+
+---
+
+FACULTY RECORD 152
+Name: MD. RIFAT
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rifat.m@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rifat.m
+
+---
+
+FACULTY RECORD 153
+Name: TOFAYET SULTAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: tofayet@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tofayet
+
+---
+
+FACULTY RECORD 154
+Name: MD. KHAIRUL ALAM MAZUMDER
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: khairul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=khairul
+
+---
+
+FACULTY RECORD 155
+Name: SAMIHA ISLAM ABRITA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: abrita@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=abrita
+
+---
+
+FACULTY RECORD 156
+Name: MD. MAJIBUL HASSAN IMRAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: imran.math@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=imran.math
+
+---
+
+FACULTY RECORD 157
+Name: UMMA KULSUM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: umma.kulsum@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=umma.kulsum
+
+---
+
+FACULTY RECORD 158
+Name: AFNAN RASHID TUSHAR
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: afnan.rashid@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=afnan.rashid
+
+---
+
+FACULTY RECORD 159
+Name: MD. RIFAT HASAN RUBEL
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: rifat.rubel@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rifat.rubel
+
+---
+
+FACULTY RECORD 160
+Name: MAHMUDUL HASAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mahmudul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahmudul
+
+---
+
+FACULTY RECORD 161
+Name: SAZIA SHARMIN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sazia.sharmin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sazia.sharmin
+
+---
+
+FACULTY RECORD 162
+Name: MD. MUSTAK UN NOBI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mustak.nobi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mustak.nobi
+
+---
+
+FACULTY RECORD 163
+Name: NUSRAT JAHAN TRISNA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: nusrat.trisna@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nusrat.trisna
+
+---
+
+FACULTY RECORD 164
+Name: MD. SAZID UDDIN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sazid.uddin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sazid.uddin
+
+---
+
+FACULTY RECORD 165
+Name: ZINNIYA TAFFANNUM PRITEE
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: zinniya.pritee@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=zinniya.pritee
+
+---
+
+FACULTY RECORD 166
+Name: PRATYYA GHOSH
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: pratyya.ghosh@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=pratyya.ghosh
+
+---
+
+FACULTY RECORD 167
+Name: MAHMUD HASAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mahmudhasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahmudhasan
+
+---
+
+FACULTY RECORD 168
+Name: WAHIDUL ALAM RIYAD
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: wahid.riyad@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=wahid.riyad
+
+---
+
+FACULTY RECORD 169
+Name: SULTANUL ARIFEEN HAMIM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: hamim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hamim
+
+---
+
+FACULTY RECORD 170
+Name: RIFAT AL MAMUN RUDRO
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mamun.rudro@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mamun.rudro
+
+---
+
+FACULTY RECORD 171
+Name: MEHEDI HASAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mehedi.cs@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mehedi.cs
+
+---
+
+FACULTY RECORD 172
+Name: FAHAD KHANDOKER
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: fahad.khandoker@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fahad.khandoker
+
+---
+
+FACULTY RECORD 173
+Name: SHANDIPAN PAUL
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: shandipan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shandipan
+
+---
+
+FACULTY RECORD 174
+Name: MD. ABDULLAH ALL MAHMUD
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mahmud.abdullah@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahmud.abdullah
+
+---
+
+FACULTY RECORD 175
+Name: MIRZA ASIF MAHMUD
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mirza.asif@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mirza.asif
+
+---
+
+FACULTY RECORD 176
+Name: FARIA SULTANA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: faria.sultana@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=faria.sultana
+
+---
+
+FACULTY RECORD 177
+Name: KAMRUN NAHER KOLI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: kkoli@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kkoli
+
+---
+
+FACULTY RECORD 178
+Name: FARHAN BIN FAISAL
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: farhan.faisal@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farhan.faisal
+
+---
+
+FACULTY RECORD 179
+Name: MD SADIK TASRIF ANUBHOVE
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sadik.tasrif@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sadik.tasrif
+
+---
+
+FACULTY RECORD 180
+Name: SADMAN RAFI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sadman.rafi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sadman.rafi
+
+---
+
+FACULTY RECORD 181
+Name: SANJIDA AFROZ SHIMU
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sanjida.shimu@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sanjida.shimu
+
+---
+
+FACULTY RECORD 182
+Name: MD. HAMID UDDIN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: hamid.uddin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hamid.uddin
+
+---
+
+FACULTY RECORD 183
+Name: MD. TANZEEM RAHAT
+Academic Rank: lecturer
+Administrative Role: Assessor [IQAC]
+Faculty: faculty of science & technology
+Email: tanzeem.rahat@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tanzeem.rahat
+
+---
+
+FACULTY RECORD 184
+Name: ZISHAN AHMED ONIK
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: zishan.onik@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=zishan.onik
+
+---
+
+FACULTY RECORD 185
+Name: AL JUBAIR HOSSAIN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: jubair.hossain@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=jubair.hossain
+
+---
+
+FACULTY RECORD 186
+Name: ARJUN KUMAR BOSE ARNOB
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: arnob@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=arnob
+
+---
+
+FACULTY RECORD 187
+Name: TANVIR AHMED
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: tanvirahmed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tanvirahmed
+
+---
+
+FACULTY RECORD 188
+Name: MEJBAH AHAMMAD
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: ahammadmejbah@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ahammadmejbah
+
+---
+
+FACULTY RECORD 189
+Name: MUBASSHAR-UL-ISHRAQ TAMIM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mubasshar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mubasshar
+
+---
+
+FACULTY RECORD 190
+Name: MAHAMODUL HASAN MAHADI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mahamodul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahamodul
+
+---
+
+FACULTY RECORD 191
+Name: MD. KAMRUL ISLAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: mdkamrul.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mdkamrul.islam
+
+---
+
+FACULTY RECORD 192
+Name: ROMONA MAGDALENE SARKAR
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: romona.sarkar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=romona.sarkar
+
+---
+
+FACULTY RECORD 193
+Name: RIYA BASAK RISHA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: riya.basak@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=riya.basak
+
+---
+
+FACULTY RECORD 194
+Name: SOURAV AKIB SARKAR
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: sourav.sarkar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sourav.sarkar
+
+---
+
+FACULTY RECORD 195
+Name: JAMIN RAHMAN JIM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of science & technology
+Email: jamin.jim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=jamin.jim
+
+---
+
+FACULTY RECORD 196
+Name: PROF. DR. ANWAR HOSSAIN
+Academic Rank: advisor
+Administrative Role: Dean-In-Charge
+Faculty: faculty of business administration
+Email: anwarh@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=anwarh
+
+---
+
+FACULTY RECORD 197
+Name: DR. MOHAMMAD FARIDUL ALAM
+Academic Rank: professor
+Administrative Role: Director [MBA Program]
+Faculty: faculty of business administration
+Email: mf.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mf.alam
+
+---
+
+FACULTY RECORD 198
+Name: PROFESSOR FARHEEN HASSAN PHD., SFHEA
+Academic Rank: professor
+Administrative Role: Director, IQAC
+Faculty: faculty of business administration
+Email: farheen@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farheen
+
+---
+
+FACULTY RECORD 199
+Name: DR. M. M. OBAIDUL ISLAM
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: obaidul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=obaidul
+
+---
+
+FACULTY RECORD 200
+Name: DR. M. ANISA KHATUN
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: anisa@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=anisa
+
+---
+
+FACULTY RECORD 201
+Name: DR. AKM MATIUR RAHMAN
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: matiur1@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=matiur1
+
+---
+
+FACULTY RECORD 202
+Name: DR. PARTHA PRASAD CHOWDHURY
+Academic Rank: professor
+Administrative Role: Department Head
+Faculty: faculty of business administration
+Email: partha.p@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=partha.p
+
+---
+
+FACULTY RECORD 203
+Name: PROFESSOR DR. MD. FARUQUE HOSSAIN
+Academic Rank: professor
+Administrative Role: Member [Research & Publication Steering Committee]
+Faculty: faculty of business administration
+Email: mfhossain@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mfhossain
+
+---
+
+FACULTY RECORD 204
+Name: DR. SHIBLI AHMED KHAN
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: shibli@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shibli
+
+---
+
+FACULTY RECORD 205
+Name: DR. KAMRUL HASAN
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: kamrul.hasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kamrul.hasan
+
+---
+
+FACULTY RECORD 206
+Name: DR. MOHAMMAD RAFIQUL ISLAM TALUKDAR
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: rafiqul.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rafiqul.islam
+
+---
+
+FACULTY RECORD 207
+Name: DR. SHEIKH ASHIQURRAHMAN PRINCE
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: sheikh.prince@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sheikh.prince
+
+---
+
+FACULTY RECORD 208
+Name: DR. ZIARAT HOSSAIN KHAN
+Academic Rank: associate professor
+Administrative Role: Deputy Director
+Faculty: faculty of business administration
+Email: ziarat@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ziarat
+
+---
+
+FACULTY RECORD 209
+Name: HAMIDUL ISLAM
+Academic Rank: associate professor
+Administrative Role: Special Assistant [OSA]
+Faculty: faculty of business administration
+Email: hamidul.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hamidul.islam
+
+---
+
+FACULTY RECORD 210
+Name: STANLEY SUMON RODRICK
+Academic Rank: associate professor
+Administrative Role: Special Assistant [OSA]
+Faculty: faculty of business administration
+Email: stanley@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=stanley
+
+---
+
+FACULTY RECORD 211
+Name: MD. JOYNAL ABEDIN
+Academic Rank: associate professor
+Administrative Role: Coordinator, Office of Sports
+Faculty: faculty of business administration
+Email: abedin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=abedin
+
+---
+
+FACULTY RECORD 212
+Name: DR. SAHIN AKTER SARKER
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: sasarker@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sasarker
+
+---
+
+FACULTY RECORD 213
+Name: NIAZ MOHAMMAD
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: mniaz@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mniaz
+
+---
+
+FACULTY RECORD 214
+Name: NAZIA FARHANA
+Academic Rank: associate professor
+Administrative Role: Additional Director [IQAC]
+Faculty: faculty of business administration
+Email: farhana_nazia@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farhana_nazia
+
+---
+
+FACULTY RECORD 215
+Name: DR. MOHAMMAD RASHEDUL HOQUE
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: hoque@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hoque
+
+---
+
+FACULTY RECORD 216
+Name: SOUMENDRA SANKAR DAS
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: soumendra@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=soumendra
+
+---
+
+FACULTY RECORD 217
+Name: DR. MOHAMMED KAMRUL HASAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: khasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=khasan
+
+---
+
+FACULTY RECORD 218
+Name: DR. BIKASH BARUA
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: bikash@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=bikash
+
+---
+
+FACULTY RECORD 219
+Name: DR. MD. SAZZADUR RAHMAN KHAN
+Academic Rank: associate professor
+Administrative Role: Department Head
+Faculty: faculty of business administration
+Email: Sazzadur@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=Sazzadur
+
+---
+
+FACULTY RECORD 220
+Name: SAMIA SHABNAZ
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: samia_s@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=samia_s
+
+---
+
+FACULTY RECORD 221
+Name: BOHI SHAJAHAN
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: bohi.sh@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=bohi.sh
+
+---
+
+FACULTY RECORD 222
+Name: DULCE CORAZON Z. LAMAGNA
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: dulce@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dulce
+
+---
+
+FACULTY RECORD 223
+Name: MD. MEHZABUL HOQUE NAHID
+Academic Rank: senior assistant professor
+Administrative Role: Department Head
+Faculty: faculty of business administration
+Email: mehzab.nahid@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mehzab.nahid
+
+---
+
+FACULTY RECORD 224
+Name: DR. MOHAMMAD ALI
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: mohammadali@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mohammadali
+
+---
+
+FACULTY RECORD 225
+Name: R. TAREQUE MOUDUD
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: rtmoudud@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rtmoudud
+
+---
+
+FACULTY RECORD 226
+Name: MOINUDDIN AHMED
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: moin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=moin
+
+---
+
+FACULTY RECORD 227
+Name: SHAHNAZ ZARIN HAQUE
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: shahnaz.zarin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shahnaz.zarin
+
+---
+
+FACULTY RECORD 228
+Name: SHAMA ISLAM
+Academic Rank: assistant professor
+Administrative Role: Special Assistant [OSA]
+Faculty: faculty of business administration
+Email: shama_islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shama_islam
+
+---
+
+FACULTY RECORD 229
+Name: KISHWAR MUBIN CHOWDHURY
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: kishwar.mubin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kishwar.mubin
+
+---
+
+FACULTY RECORD 230
+Name: DR. MD. KHALED AMIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: khaled.amin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=khaled.amin
+
+---
+
+FACULTY RECORD 231
+Name: SAZIA AFRIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: sazia.afrin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sazia.afrin
+
+---
+
+FACULTY RECORD 232
+Name: JUBAYER SUHAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: jubayer.suhan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=jubayer.suhan
+
+---
+
+FACULTY RECORD 233
+Name: SAYEED IBRAHIM AHMED
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: siahmed007@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=siahmed007
+
+---
+
+FACULTY RECORD 234
+Name: MD. ZAHIDUL ANAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: zahidul.anam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=zahidul.anam
+
+---
+
+FACULTY RECORD 235
+Name: QUAZI NUR ALAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: nur.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nur.alam
+
+---
+
+FACULTY RECORD 236
+Name: SHARMIN SULTANA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: sharmin.sultana@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sharmin.sultana
+
+---
+
+FACULTY RECORD 237
+Name: ANIMA KARMAKAR
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: anima.karmakar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=anima.karmakar
+
+---
+
+FACULTY RECORD 238
+Name: MUSTAFA HASAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: mustafa.hasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mustafa.hasan
+
+---
+
+FACULTY RECORD 239
+Name: MAHMUDUL HASAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: mahmudul.hasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahmudul.hasan
+
+---
+
+FACULTY RECORD 240
+Name: SANJIDA AKHTAR
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: sanjida@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sanjida
+
+---
+
+FACULTY RECORD 241
+Name: SAEEDA TAJRIAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: stajrian@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=stajrian
+
+---
+
+FACULTY RECORD 242
+Name: KHANDAKAR TAHURUL ISLAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: tahurul.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tahurul.islam
+
+---
+
+FACULTY RECORD 243
+Name: SIAM MOHAMMAD
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: siam.mohammad@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=siam.mohammad
+
+---
+
+FACULTY RECORD 244
+Name: NABILA WAHID
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: nabila.wahid@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nabila.wahid
+
+---
+
+FACULTY RECORD 245
+Name: FARZAN MITU
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: farzan.mitu@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farzan.mitu
+
+---
+
+FACULTY RECORD 246
+Name: NABILA NUR JOYA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: joya.nabila@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=joya.nabila
+
+---
+
+FACULTY RECORD 247
+Name: NUSRAT NOWREEN SRABONTY
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: nusrat.nowreen@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nusrat.nowreen
+
+---
+
+FACULTY RECORD 248
+Name: FATEMA TUZ ZAHRA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: fatema.zahra@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fatema.zahra
+
+---
+
+FACULTY RECORD 249
+Name: NOWSHEEN ANJUM JOYA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: joya@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=joya
+
+---
+
+FACULTY RECORD 250
+Name: AFRINA AZAD OMI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: afrina@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=afrina
+
+---
+
+FACULTY RECORD 251
+Name: NIYONTA ISLAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: niyonta@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=niyonta
+
+---
+
+FACULTY RECORD 252
+Name: TASNIM FATIMA JAHAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: tasnim.jahan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tasnim.jahan
+
+---
+
+FACULTY RECORD 253
+Name: NOHOLLI NUR AUNTICK
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of business administration
+Email: noholli.auntick@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=noholli.auntick
+
+---
+
+FACULTY RECORD 254
+Name: PROF. DR. ABM SIDDIQUE HOSSAIN
+Academic Rank: professor
+Administrative Role: DEAN
+Faculty: faculty of engineering
+Email: siddique@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=siddique
+
+---
+
+FACULTY RECORD 255
+Name: DR. MOHAMMAD ABDUL MANNAN
+Academic Rank: professor
+Administrative Role: Associate Dean [FE]
+Faculty: faculty of engineering
+Email: mdmannan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mdmannan
+
+---
+
+FACULTY RECORD 256
+Name: DR. MD. SANIAT RAHMAN ZISHAN
+Academic Rank: professor
+Administrative Role: DIRECTOR
+Faculty: faculty of engineering
+Email: saniat@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=saniat
+
+---
+
+FACULTY RECORD 257
+Name: PROF. M. A. QUAIYUM
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: maquaiyum@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=maquaiyum
+
+---
+
+FACULTY RECORD 258
+Name: DR. MOHAMMAD NASIR UDDIN
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: drnasir@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=drnasir
+
+---
+
+FACULTY RECORD 259
+Name: DR. MOHAMMAD MASUM IQBAL
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: masumiqbal@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=masumiqbal
+
+---
+
+FACULTY RECORD 260
+Name: DR. MOHAMMAD TAWHIDUL ALAM
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: tawhidul.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tawhidul.alam
+
+---
+
+FACULTY RECORD 261
+Name: DR. MUHIBUL HAQUE BHUYAN
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: muhibulhb@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=muhibulhb
+
+---
+
+FACULTY RECORD 262
+Name: ASHIK MANNAN VASKOR
+Academic Rank: senior associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: ashikvaskor@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ashikvaskor
+
+---
+
+FACULTY RECORD 263
+Name: DR. SHAHRIYAR MASUD RIZVI
+Academic Rank: associate professor
+Administrative Role: Deputy Director [Dr. Anwarul Abedin Institute of Innovation]
+Faculty: faculty of engineering
+Email: shahriyar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shahriyar
+
+---
+
+FACULTY RECORD 264
+Name: DR. MD. HASAN IMAM
+Academic Rank: associate professor
+Administrative Role: Member [Research & Publication Steering Committee]
+Faculty: faculty of engineering
+Email: hasan.imam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hasan.imam
+
+---
+
+FACULTY RECORD 265
+Name: NAFIZ AHMED CHISTY
+Academic Rank: associate professor
+Administrative Role: Head [Undergraduate Program]
+Faculty: faculty of engineering
+Email: chisty@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=chisty
+
+---
+
+FACULTY RECORD 266
+Name: DR. EBAD ZAHIR
+Academic Rank: associate professor
+Administrative Role: Special Assistant [EEE]
+Faculty: faculty of engineering
+Email: ebad.zahir@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ebad.zahir
+
+---
+
+FACULTY RECORD 267
+Name: M. AREFEEN IBRAHIM
+Academic Rank: associate professor
+Administrative Role: Department Head
+Faculty: faculty of engineering
+Email: arefeen@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=arefeen
+
+---
+
+FACULTY RECORD 268
+Name: DR. MD. KAMRUL HASSAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: mdkamrul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mdkamrul
+
+---
+
+FACULTY RECORD 269
+Name: SUSMITA GHOSH
+Academic Rank: associate professor
+Administrative Role: Assessor [IQAC]
+Faculty: faculty of engineering
+Email: s.ghosh@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=s.ghosh
+
+---
+
+FACULTY RECORD 270
+Name: KAZI FIROZ AHMED
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: k.firoz@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=k.firoz
+
+---
+
+FACULTY RECORD 271
+Name: DR. CHOWDHURY AKRAM HOSSAIN
+Academic Rank: associate professor
+Administrative Role: Department Head [CoE]
+Faculty: faculty of engineering
+Email: chowdhury.akram@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=chowdhury.akram
+
+---
+
+FACULTY RECORD 272
+Name: RETHWAN FAIZ
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: rethwan_faiz@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rethwan_faiz
+
+---
+
+FACULTY RECORD 273
+Name: ABU HENA MUHAMMAD SHATIL
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: abu.shatil@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=abu.shatil
+
+---
+
+FACULTY RECORD 274
+Name: RAJA RASHIDUL HASAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: hemal@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hemal
+
+---
+
+FACULTY RECORD 275
+Name: DR. M. TANSEER ALI
+Academic Rank: associate professor
+Administrative Role: Head [Graduate Program]
+Faculty: faculty of engineering
+Email: tanseer@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tanseer
+
+---
+
+FACULTY RECORD 276
+Name: DR. MD. HUMAYUN KABIR
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: drkabir@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=drkabir
+
+---
+
+FACULTY RECORD 277
+Name: DR. MD. RIFAT HAZARI
+Academic Rank: associate professor
+Administrative Role: Special Assistant [EEE]
+Faculty: faculty of engineering
+Email: rifat@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rifat
+
+---
+
+FACULTY RECORD 278
+Name: DR. MD. EHASANUL HAQUE
+Academic Rank: associate professor
+Administrative Role: Department Head
+Faculty: faculty of engineering
+Email: ehasanul@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ehasanul
+
+---
+
+FACULTY RECORD 279
+Name: DR. MD. KABIRUZZAMAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: kabiruzzaman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kabiruzzaman
+
+---
+
+FACULTY RECORD 280
+Name: DR. MOHAMMAD KHURSHED ALAM
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: khurshed709@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=khurshed709
+
+---
+
+FACULTY RECORD 281
+Name: DR. MD MAHADI HASAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: mahadi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahadi
+
+---
+
+FACULTY RECORD 282
+Name: DR. TANBIR IBNE ANOWAR
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: dr.tanbir@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dr.tanbir
+
+---
+
+FACULTY RECORD 283
+Name: MD. ASHIQUZZAMAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: ashiquzzaman.eee@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ashiquzzaman.eee
+
+---
+
+FACULTY RECORD 284
+Name: DR. MD. RUKONUZZAMAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: rzaman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rzaman
+
+---
+
+FACULTY RECORD 285
+Name: DR. MONON MAHBOOB
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: monon@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=monon
+
+---
+
+FACULTY RECORD 286
+Name: MOHAMMAD ASADUZZAMAN KHAN
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: mohammad.khan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mohammad.khan
+
+---
+
+FACULTY RECORD 287
+Name: AJMERI NUSRAT SHOMA
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: ajmerinusrat@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ajmerinusrat
+
+---
+
+FACULTY RECORD 288
+Name: MD. SAJID HOSSAIN
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: sajidh@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sajidh
+
+---
+
+FACULTY RECORD 289
+Name: MEHEDI HASAN
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: mehedi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mehedi
+
+---
+
+FACULTY RECORD 290
+Name: MAHMOODUL ISLAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: mahmood@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahmood
+
+---
+
+FACULTY RECORD 291
+Name: MD. SARIFUL ISLAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: sariful@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sariful
+
+---
+
+FACULTY RECORD 292
+Name: FARZANA SIDDIQUA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: farzana_7@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farzana_7
+
+---
+
+FACULTY RECORD 293
+Name: HASAN AHMED CHOWDURY
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: hasanahmed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hasanahmed
+
+---
+
+FACULTY RECORD 294
+Name: BISHWAJIT BANIK PATHIK
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: bishwajit@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=bishwajit
+
+---
+
+FACULTY RECORD 295
+Name: NUZAT NUARY ALAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: nuzatalam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nuzatalam
+
+---
+
+FACULTY RECORD 296
+Name: IRFAT ALAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: irfat.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=irfat.alam
+
+---
+
+FACULTY RECORD 297
+Name: NAZIFA ZABEEN SIDDIQUA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: nazifa@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nazifa
+
+---
+
+FACULTY RECORD 298
+Name: MD. TAREK MORAD
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: tarek.m@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tarek.m
+
+---
+
+FACULTY RECORD 299
+Name: SADIA YASMIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: sadia@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sadia
+
+---
+
+FACULTY RECORD 300
+Name: SAIFUL HASAN TARIQ
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: tariq@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tariq
+
+---
+
+FACULTY RECORD 301
+Name: MEHEDI AMIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: mehedi.amin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mehedi.amin
+
+---
+
+FACULTY RECORD 302
+Name: NUSHRAT-E-HOQUE
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: nushrat@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nushrat
+
+---
+
+FACULTY RECORD 303
+Name: TAHSEEN ASMA MEEM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: tahseen@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tahseen
+
+---
+
+FACULTY RECORD 304
+Name: DR. NAHEED HOSSAIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: naheed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=naheed
+
+---
+
+FACULTY RECORD 305
+Name: ABIR AHMED
+Academic Rank: assistant professor
+Administrative Role: Special Assistant [EEE]
+Faculty: faculty of engineering
+Email: abir.ahmed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=abir.ahmed
+
+---
+
+FACULTY RECORD 306
+Name: NOWSHIN ALAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: nowshin.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nowshin.alam
+
+---
+
+FACULTY RECORD 307
+Name: MD. SHAHARIAR PARVEZ
+Academic Rank: assistant professor
+Administrative Role: Special Assistant [OSA]
+Faculty: faculty of engineering
+Email: shahariar.parvez@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shahariar.parvez
+
+---
+
+FACULTY RECORD 308
+Name: DR. MOHAMMAD ALIF ARMAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: dr.alifarman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dr.alifarman
+
+---
+
+FACULTY RECORD 309
+Name: TAMIM HOSSAIN
+Academic Rank: assistant professor
+Administrative Role: Special Assistant [OSA]
+Faculty: faculty of engineering
+Email: tamim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tamim
+
+---
+
+FACULTY RECORD 310
+Name: SADMAN SHAHRIAR ALAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: sadman.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sadman.alam
+
+---
+
+FACULTY RECORD 311
+Name: MAHAMUDUL HASSAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: mahamud.ipe@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahamud.ipe
+
+---
+
+FACULTY RECORD 312
+Name: PROTIK PARVEZ SHEIKH
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: protik@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=protik
+
+---
+
+FACULTY RECORD 313
+Name: MD. ALOMGIR KABIR
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: akabir@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=akabir
+
+---
+
+FACULTY RECORD 314
+Name: DR. GOUR CHAND MAZUMDER
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: dr.mazumder@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dr.mazumder
+
+---
+
+FACULTY RECORD 315
+Name: DR. MUHAMMAD MORSHED ALAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: dr.malam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dr.malam
+
+---
+
+FACULTY RECORD 316
+Name: DR. MOHAMMAD TAUHIDUZZAMAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: mtauhid@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mtauhid
+
+---
+
+FACULTY RECORD 317
+Name: DR. AMBAREEN ATISHA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: ambareen@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ambareen
+
+---
+
+FACULTY RECORD 318
+Name: RUBAB AHMMED
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: rubab.ahmmed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rubab.ahmmed
+
+---
+
+FACULTY RECORD 319
+Name: DR. MD. RAUF UL KARIM KHAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: rauf.karim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rauf.karim
+
+---
+
+FACULTY RECORD 320
+Name: NIGAR SULTANA
+Academic Rank: senior lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: nigar.sultana@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nigar.sultana
+
+---
+
+FACULTY RECORD 321
+Name: DR. SANJIB BARUA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: sanjib.san@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sanjib.san
+
+---
+
+FACULTY RECORD 322
+Name: SAMIHA ISHRAT ISLAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: samiha.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=samiha.islam
+
+---
+
+FACULTY RECORD 323
+Name: MD. RASHED HASAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: rashedhasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rashedhasan
+
+---
+
+FACULTY RECORD 324
+Name: JOHEB MUHAMMAD TANZEER SAYEED
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: joheb.sayeed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=joheb.sayeed
+
+---
+
+FACULTY RECORD 325
+Name: ABU SHUFIAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: shufian.eee@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shufian.eee
+
+---
+
+FACULTY RECORD 326
+Name: FATEMA NUR SUMAITA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: sumaita@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sumaita
+
+---
+
+FACULTY RECORD 327
+Name: S M TANVIR HASSAN SHOVON
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: thshovon@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=thshovon
+
+---
+
+FACULTY RECORD 328
+Name: ALVI MD. RAGIB NIHAL KHAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: alvi.khan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=alvi.khan
+
+---
+
+FACULTY RECORD 329
+Name: MD. SHAORAN SAYEM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: shaoranmss@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shaoranmss
+
+---
+
+FACULTY RECORD 330
+Name: FARZANA MOMTAZ MITHILA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: farzana.mithila@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farzana.mithila
+
+---
+
+FACULTY RECORD 331
+Name: LIA MONI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: lia.moni@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=lia.moni
+
+---
+
+FACULTY RECORD 332
+Name: MOHAMMAD ASHIQUR NOOR
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: ashiqurnoor@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ashiqurnoor
+
+---
+
+FACULTY RECORD 333
+Name: MOHAMMAD RABIB UDDIN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: rabib@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rabib
+
+---
+
+FACULTY RECORD 334
+Name: DEBRAJ DAS
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: debraj@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=debraj
+
+---
+
+FACULTY RECORD 335
+Name: ARAJIT SAHA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: arajit.saha@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=arajit.saha
+
+---
+
+FACULTY RECORD 336
+Name: JAGONNATH BISWAS
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: jagonnath@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=jagonnath
+
+---
+
+FACULTY RECORD 337
+Name: OSIM KUMAR PAL
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: osim.pal@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=osim.pal
+
+---
+
+FACULTY RECORD 338
+Name: FARHAN AHMED WASIM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: fawasim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fawasim
+
+---
+
+FACULTY RECORD 339
+Name: NUSRAT AHMAD
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: nahmad@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nahmad
+
+---
+
+FACULTY RECORD 340
+Name: MD. SHAHRIAR KHAN HEMEL
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: shahriar.hemel@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shahriar.hemel
+
+---
+
+FACULTY RECORD 341
+Name: DIPTO CHAKRABARTI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: dipto.chakrabarti@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dipto.chakrabarti
+
+---
+
+FACULTY RECORD 342
+Name: TANJINA SABRIN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of engineering
+Email: tanjina.sabrin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tanjina.sabrin
+
+---
+
+FACULTY RECORD 343
+Name: DR. TAZUL ISLAM
+Academic Rank: professor
+Administrative Role: DEAN
+Faculty: faculty of arts and social sciences
+Email: tislam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tislam
+
+---
+
+FACULTY RECORD 344
+Name: DR. A. B. M. RAHMATULLAH
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: rahmatullah@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rahmatullah
+
+---
+
+FACULTY RECORD 345
+Name: DR. MD. ASIF KAMAL
+Academic Rank: professor
+Administrative Role: Member [Research & Publication Steering Committee]
+Faculty: faculty of arts and social sciences
+Email: asifkamal@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=asifkamal
+
+---
+
+FACULTY RECORD 346
+Name: PROF. DR. TASLIMA MONSOOR
+Academic Rank: professor
+Administrative Role: Advisor
+Faculty: faculty of arts and social sciences
+Email: taslima.monsoor@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=taslima.monsoor
+
+---
+
+FACULTY RECORD 347
+Name: DR. SHAHEEN AKTER
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: shaheen@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shaheen
+
+---
+
+FACULTY RECORD 348
+Name: DR. PRADIP KUMAR PANDAY
+Academic Rank: professor
+Administrative Role: Department Head
+Faculty: faculty of arts and social sciences
+Email: pdpanday@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=pdpanday
+
+---
+
+FACULTY RECORD 349
+Name: MD. HAMIDUL HAQUE
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: hamidhaq@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=hamidhaq
+
+---
+
+FACULTY RECORD 350
+Name: DR. BUDDHA DEV BISWAS
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: bdbiswas@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=bdbiswas
+
+---
+
+FACULTY RECORD 351
+Name: DR. FARHANA RAFIQ
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: farhana_r@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farhana_r
+
+---
+
+FACULTY RECORD 352
+Name: RISALA AHMED
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: risala@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=risala
+
+---
+
+FACULTY RECORD 353
+Name: DR. FARIA SULTANA
+Academic Rank: associate professor
+Administrative Role: Associate Dean [FASS]
+Faculty: faculty of arts and social sciences
+Email: farias@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farias
+
+---
+
+FACULTY RECORD 354
+Name: DR. ARIFATUL KIBRIA
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: arifatul.kibria@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=arifatul.kibria
+
+---
+
+FACULTY RECORD 355
+Name: DR. PRODHAN MAHBUB IBNA SERAJ
+Academic Rank: associate professor
+Administrative Role: Department Head
+Faculty: faculty of arts and social sciences
+Email: mahbub.seraj@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mahbub.seraj
+
+---
+
+FACULTY RECORD 356
+Name: DR. MAFRUHA FERDOUS
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: mafruha@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mafruha
+
+---
+
+FACULTY RECORD 357
+Name: DR. ROBAYET FERDOUS SYED
+Academic Rank: associate professor
+Administrative Role: Department Head
+Faculty: faculty of arts and social sciences
+Email: robayet.syed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=robayet.syed
+
+---
+
+FACULTY RECORD 358
+Name: DR. KAZI TANVIR MAHMUD
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: tanvir.mahmud@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tanvir.mahmud
+
+---
+
+FACULTY RECORD 359
+Name: CARLIN NOELLE ZITA LAMAGNA
+Academic Rank: senior assistant professor
+Administrative Role: Deputy Director
+Faculty: faculty of arts and social sciences
+Email: carlin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=carlin
+
+---
+
+FACULTY RECORD 360
+Name: SHAIRA MATIN
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: shaira102@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shaira102
+
+---
+
+FACULTY RECORD 361
+Name: MOHAMMED NIAZ MAJUMDAR
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: nmajumdar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nmajumdar
+
+---
+
+FACULTY RECORD 362
+Name: KASPIA SULTANA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: kaspia@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=kaspia
+
+---
+
+FACULTY RECORD 363
+Name: TASNIA TARANNUM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: tarannum@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tarannum
+
+---
+
+FACULTY RECORD 364
+Name: THEOTONIUS GOMES
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: gomes.theo@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=gomes.theo
+
+---
+
+FACULTY RECORD 365
+Name: SHIHAB SAQIB
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: shihab.saqib@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shihab.saqib
+
+---
+
+FACULTY RECORD 366
+Name: ASHIKA BARI JOTEE
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: ashikab@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ashikab
+
+---
+
+FACULTY RECORD 367
+Name: DR. MD. SHAMSUL ARIFEEN KHAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: sakmamun@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sakmamun
+
+---
+
+FACULTY RECORD 368
+Name: BORENDRA LAL TRIPURA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: borendra@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=borendra
+
+---
+
+FACULTY RECORD 369
+Name: AFROJA SULTANA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: afroja.shoma@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=afroja.shoma
+
+---
+
+FACULTY RECORD 370
+Name: SHIBAJI MRIDHA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: smridha@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=smridha
+
+---
+
+FACULTY RECORD 371
+Name: FERDOUSI BEGUM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: ferdousi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ferdousi
+
+---
+
+FACULTY RECORD 372
+Name: TASNUVA ANIKA
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: tasnuva@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tasnuva
+
+---
+
+FACULTY RECORD 373
+Name: MEHEDI HASAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: mehedi.hasan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=mehedi.hasan
+
+---
+
+FACULTY RECORD 374
+Name: DR. ROWSHON ARA ROMKE
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: jromke@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=jromke
+
+---
+
+FACULTY RECORD 375
+Name: TOUHIDA EASMIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: touhida.easmin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=touhida.easmin
+
+---
+
+FACULTY RECORD 376
+Name: MST. NASRIN AKTER
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: nasrin.akter@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nasrin.akter
+
+---
+
+FACULTY RECORD 377
+Name: DR. ASHRAFUZZAMAN KHAN
+Academic Rank: assistant professor
+Administrative Role: Department Head
+Faculty: faculty of arts and social sciences
+Email: ashraf@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ashraf
+
+---
+
+FACULTY RECORD 378
+Name: ROSTOMA BEGUM CHAUDHURY
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: rostoma@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rostoma
+
+---
+
+FACULTY RECORD 379
+Name: SABRINA KARIM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: sabrina.karim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sabrina.karim
+
+---
+
+FACULTY RECORD 380
+Name: DR. SARIFUL ISLAM
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: sarifulislam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sarifulislam
+
+---
+
+FACULTY RECORD 381
+Name: TANZIL TAMANNA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: tanzil@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tanzil
+
+---
+
+FACULTY RECORD 382
+Name: DIPTY RAHMAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: dipty@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dipty
+
+---
+
+FACULTY RECORD 383
+Name: RAWNAK MIRAJ UL AZAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: rawnak.miraj@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rawnak.miraj
+
+---
+
+FACULTY RECORD 384
+Name: IFTEKHAR MAHMUD
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: iftekhar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=iftekhar
+
+---
+
+FACULTY RECORD 385
+Name: TASNEEM SHEREEN KHAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: tasneem@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tasneem
+
+---
+
+FACULTY RECORD 386
+Name: AKIBUR RAHMAN KHAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: akib@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=akib
+
+---
+
+FACULTY RECORD 387
+Name: SHAHRINA AFRIN SIDDIQUE
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: shahrina@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shahrina
+
+---
+
+FACULTY RECORD 388
+Name: PRIYANKA AKHTER
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: priyanka@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=priyanka
+
+---
+
+FACULTY RECORD 389
+Name: SAKIB ABRAR TASNIM
+Academic Rank: lecturer
+Administrative Role: Assessor [IQAC]
+Faculty: faculty of arts and social sciences
+Email: abrar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=abrar
+
+---
+
+FACULTY RECORD 390
+Name: TASNOVA JERIN ULFAT
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: tasnova.jerin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=tasnova.jerin
+
+---
+
+FACULTY RECORD 391
+Name: NUSRAT JAHAN JYOTE
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: nusrat.jyote@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nusrat.jyote
+
+---
+
+FACULTY RECORD 392
+Name: SOEB AKTAR
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: soeb.aktar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=soeb.aktar
+
+---
+
+FACULTY RECORD 393
+Name: FAHIM FAISAL KHAN ALABI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: fahim.alabi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fahim.alabi
+
+---
+
+FACULTY RECORD 394
+Name: NOWSHIN NOWER TASNIM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: nowshin.tasnim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nowshin.tasnim
+
+---
+
+FACULTY RECORD 395
+Name: SHAH RILA NOWAL PRIMA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: shah.prima@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=shah.prima
+
+---
+
+FACULTY RECORD 396
+Name: NAZIA ZAMAN CHOWDHURY
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: naziazaman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=naziazaman
+
+---
+
+FACULTY RECORD 397
+Name: MD. ABDULLAH- ALMUTI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: abdullah.almuti@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=abdullah.almuti
+
+---
+
+FACULTY RECORD 398
+Name: BIJETRI TASNUVA PRONOMI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: pronomi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=pronomi
+
+---
+
+FACULTY RECORD 399
+Name: ASHIQUR RAHMAN
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: ashiqur.rahman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ashiqur.rahman
+
+---
+
+FACULTY RECORD 400
+Name: FAREHA RAIDA ISLAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: fareha.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=fareha.islam
+
+---
+
+FACULTY RECORD 401
+Name: RAFI AHMED
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: rafi.ahmed@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rafi.ahmed
+
+---
+
+FACULTY RECORD 402
+Name: NAFEES ALVI DHRUBO
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: nafees.alvi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nafees.alvi
+
+---
+
+FACULTY RECORD 403
+Name: MD. MUHTASIM FAIAZ
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: muhtasim.faiaz@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=muhtasim.faiaz
+
+---
+
+FACULTY RECORD 404
+Name: DELARA HASAN ANANNA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: delara@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=delara
+
+---
+
+FACULTY RECORD 405
+Name: MD. JAHEDUL ISLAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: jahedul.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=jahedul.islam
+
+---
+
+FACULTY RECORD 406
+Name: ANTA ATALANTIA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: antaatalantia@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=antaatalantia
+
+---
+
+FACULTY RECORD 407
+Name: FAIZAH FAIROOZ
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: faizah.fairooz@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=faizah.fairooz
+
+---
+
+FACULTY RECORD 408
+Name: FARZANA AFROZ TASFI
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: farzana.tasfi@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=farzana.tasfi
+
+---
+
+FACULTY RECORD 409
+Name: RAGIB ABRAR ALAM
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: ragib.alam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=ragib.alam
+
+---
+
+FACULTY RECORD 410
+Name: RANI ELLEN V. RAMOS
+Academic Rank: lecturer (animator)
+Administrative Role: None listed
+Faculty: faculty of arts and social sciences
+Email: rani.ramos@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rani.ramos
+
+---
+
+FACULTY RECORD 411
+Name: DR. MD. SIDDIQUL ISLAM
+Academic Rank: professor
+Administrative Role: Head-In-Charge
+Faculty: faculty of health and life sciences
+Email: siddiqul.islam@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=siddiqul.islam
+
+---
+
+FACULTY RECORD 412
+Name: DR. MUFTIKHAR AHMED
+Academic Rank: professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: muftikhar@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=muftikhar
+
+---
+
+FACULTY RECORD 413
+Name: DR. MOHAMMAD NAZIR HOSSAIN
+Academic Rank: professor
+Administrative Role: Head-In-Charge
+Faculty: faculty of health and life sciences
+Email: nazir@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nazir
+
+---
+
+FACULTY RECORD 414
+Name: DR. SABUKTAGIN RAHMAN
+Academic Rank: senior associate professor
+Administrative Role: Department Head
+Faculty: faculty of health and life sciences
+Email: sabuktagin@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sabuktagin
+
+---
+
+FACULTY RECORD 415
+Name: DR. MUHAMMAD WASIFUL ALAM
+Academic Rank: associate professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: wasif@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=wasif
+
+---
+
+FACULTY RECORD 416
+Name: DR. IFFAT TASNIM HAQUE
+Academic Rank: senior assistant professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: iffat.tasnim@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=iffat.tasnim
+
+---
+
+FACULTY RECORD 417
+Name: FURHATUN-NOOR
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: furhatun.noor@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=furhatun.noor
+
+---
+
+FACULTY RECORD 418
+Name: DR. RAKIA HOSSAIN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: dr.rakia@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=dr.rakia
+
+---
+
+FACULTY RECORD 419
+Name: DR. NAZIA RIFAT ZAMAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: nazia.zaman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=nazia.zaman
+
+---
+
+FACULTY RECORD 420
+Name: DR. ABDULLAH AL MAMUN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: aalmamun@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=aalmamun
+
+---
+
+FACULTY RECORD 421
+Name: DR. ISRAT JAHAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: israt.jahan@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=israt.jahan
+
+---
+
+FACULTY RECORD 422
+Name: DR. MUHAMMAD ASAD UZ ZAMAN
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: asad.zaman@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=asad.zaman
+
+---
+
+FACULTY RECORD 423
+Name: DR. ANTARA GHOSH
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: antara.ghosh@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=antara.ghosh
+
+---
+
+FACULTY RECORD 424
+Name: DR. SHARMISTHA KUNDU
+Academic Rank: assistant professor
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: sharmistha.kundu@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=sharmistha.kundu
+
+---
+
+FACULTY RECORD 425
+Name: RABEYA
+Academic Rank: lecturer
+Administrative Role: None listed
+Faculty: faculty of health and life sciences
+Email: rabeya@aiub.edu
+Profile URL: https://www.aiub.edu/faculty-list/faculty-profile?q=rabeya
+
+---

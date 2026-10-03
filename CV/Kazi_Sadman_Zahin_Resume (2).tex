@@ -1,0 +1,114 @@
+\documentclass[9.5pt,a4paper]{article}
+
+\usepackage[top=0.35in,bottom=0.35in,left=0.5in,right=0.5in]{geometry}
+\usepackage{mathptmx}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{hyperref}
+\usepackage{xcolor}
+
+\definecolor{accent}{HTML}{1a1a1a}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+\hypersetup{
+    colorlinks=true,
+    linkcolor=accent,
+    urlcolor=accent
+}
+
+\titleformat{\section}{\large\bfseries}{}{0em}{}[\titlerule]
+\titlespacing{\section}{0pt}{3pt}{1pt}
+
+\newcommand{\resitem}[1]{\item #1}
+\setlist[itemize]{leftmargin=13pt, itemsep=0pt, topsep=1pt, parsep=0pt}
+
+\begin{document}
+
+% ---------- HEADER ----------
+\begin{center}
+    {\Huge \bfseries KAZI SADMAN ZAHIN} \\[1pt]
+    {\large COMPUTER SCIENCE \& ENGINEERING STUDENT} \\[3pt]
+    \small
+    Phone: 01886677655 ~$|$~
+    Email: \href{mailto:kazisadman897@gmail.com}{kazisadman897@gmail.com} ~$|$~
+    GitHub: \href{https://github.com/Kazi-Sadman}{Kazi-Sadman} ~$|$~
+    LinkedIn: \href{https://linkedin.com/in/sadman-zahin}{sadman-zahin}
+\end{center}
+
+% ---------- PROFESSIONAL SUMMARY ----------
+\section*{PROFESSIONAL SUMMARY}
+Computer Science and Engineering undergraduate with hands-on experience in software development, backend systems, databases, and machine learning. Proficient in C++, Python, C\#, React, FastAPI, Django, and SQL, with project experience in REST API development, relational database management, web applications, and system-based solutions. Seeking a Bank IT Internship to contribute to software development, IT operations, database management, system support, troubleshooting, and secure technology solutions while gaining practical experience in banking technology.
+
+
+% ---------- TECHNICAL SKILLS ----------
+\section*{TECHNICAL SKILLS}
+\begin{itemize}
+    \resitem{\textbf{Languages:} C++, Python, C\#}
+    \resitem{\textbf{Web \& Backend:} JavaScript, React, FastAPI, Django, REST API}
+    \resitem{\textbf{Databases:} MySQL, PostgreSQL, Microsoft SQL Server}
+    \resitem{\textbf{Machine Learning:} NumPy, Pandas, Scikit-Learn}
+    \resitem{\textbf{IT \& Systems:}  Computer Networking, Operating Systems, System Administration, IT Troubleshooting}
+    \resitem{\textbf{Soft Skills:} Problem Solving, Teamwork, Communication}
+\end{itemize}
+
+% ---------- TECHNICAL PROJECTS ----------
+\section*{TECHNICAL PROJECTS}
+
+\textbf{Student-Course Enrollment System (Full-Stack)} \quad $|$ \quad \href{https://github.com/Kazi-Sadman/Student_Enroll_Management_System}{GitHub: Student\_Enroll\_Management\_System}
+\begin{itemize}
+    \item Built a full-stack enrollment platform with a React front-end and a FastAPI back-end, following a layered architecture: Routes to Services to Models to Database.
+    \item Modeled Student, Course, Department, and Enrollment entities with SQLAlchemy ORM and Pydantic-based request/response validation.
+    \item Enforced enrollment business rules including duplicate-enrollment prevention and relationship-based lookups (courses by student, students by course).
+    \item Developed and tested full CRUD REST APIs across all four modules using Postman.
+\end{itemize}
+
+\textbf{SMS Spam Detection System} \quad $|$ \quad \href{https://github.com/Kazi-Sadman/sms_spam_classifier}{GitHub: sms\_spam\_classifier}
+\begin{itemize}
+    \item Engineered an SMS spam classifier in Python using NLP preprocessing (tokenization, stopword removal, stemming) and TF-IDF vectorization (3,000 features) on the SMS Spam Collection dataset (5,572 messages, cleaned to 5,169).
+    \item Trained and compared 7 models -- Multinomial/Bernoulli Naive Bayes, Logistic Regression, SVM, Random Forest, Voting and Stacking ensembles -- selecting a Voting Classifier as the final model for its precision-performance balance.
+    \item Deployed the model as a live Streamlit web app; co-authored an accompanying research paper (in preparation for conference submission).
+\end{itemize}
+
+\textbf{Hostel Management System} \quad $|$ \quad \href{https://github.com/Kazi-Sadman/Hostel_Management_System}{GitHub: Hostel\_Management\_System}
+\begin{itemize}
+    \item Developed a desktop hostel management system in C\# (Windows Forms, .NET Framework) with Microsoft SQL Server via ADO.NET.
+    \item Designed Student, Room, Employee, and Payment modules with role-based access for Admin and Receptionist users.
+    \item Created a dashboard tracking total students, room/bed availability, and payment status across 6 relational tables.
+\end{itemize}
+
+% ---------- EXPERIENCE ----------
+\section*{EXPERIENCE}
+
+\textbf{Project Engineer (Academic Role) -- Hospital Appointment Booking System} \quad $|$ \quad \href{https://github.com/Kazi-Sadman/HospitalAppointmentSystem}{GitHub: HospitalAppointmentSystem}
+\begin{itemize}
+    \item Collaborated with 2 teammates to build a full-stack hospital appointment system (PHP, MySQL, JavaScript, AJAX) under a strict MVC architecture with shared database/authentication.
+    \item Owned the Admin module: doctor and specialization management with live AJAX search, system-wide appointment oversight, and patient account management.
+    \item Implemented secure authentication (bcrypt hashing, session-based RBAC) with dual-layer client/server validation.
+    \item Applied prepared statements to prevent SQL injection across Admin, Doctor, and Patient modules.
+\end{itemize}
+
+% ---------- PUBLICATIONS ----------
+\section*{PUBLICATIONS}
+
+\textbf{Scaffold-Aware Drug Solubility Classification: Quantifying Generalization Gaps in Machine Learning Models with SMOTE and Extended Molecular Fingerprints on AqSolDB}
+\begin{itemize}
+    \item Status: Accepted for publication, BECITHCON 2026.
+\end{itemize}
+
+% ---------- COMPETITIVE PROGRAMMING ----------
+\section*{COMPETITIVE PROGRAMMING}
+\begin{itemize}
+    \item CodeChef -- 2-Star, max rating 1403
+    \item LeetCode -- judge rating 1483
+    \item Solved 700+ problems across Codeforces, CodeChef, LeetCode, LightOJ, and Toph
+    \item Strong foundation in algorithms, data structures, and logical problem-solving built through consistent practice.
+\end{itemize}
+
+% ---------- EDUCATION ----------
+\section*{EDUCATION}
+\textbf{B.Sc. in Computer Science \& Engineering, American International University-Bangladesh (AIUB)} \\
+Dhaka, Bangladesh \quad $|$ \quad Expected Graduation: 2027 \quad $|$ \quad CGPA: 3.60 / 4.00
+
+\end{document}

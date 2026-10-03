@@ -1,0 +1,733 @@
+================================================================================
+AMERICAN INTERNATIONAL UNIVERSITY-BANGLADESH (AIUB)
+ACADEMIC STANDING, GRADING SYSTEM & RECOGNITION POLICY
+================================================================================
+
+DOCUMENT TYPE:
+AIUB Academic Grading, GPA/CGPA, Academic Standing and Recognition Policy
+
+MAIN TOPICS:
+Grading System, Grade Points, GPA, CGPA, Non-GPA Grades,
+Good Standing, Academic Warning, Academic Probation,
+Academic Dismissal, Disciplinary Suspension, Dean's List,
+Honorable Mention, Convocation Honors, Graduation Honors
+
+
+================================================================================
+TOPIC 1: AIUB GRADING SYSTEM AND GRADE POINT EQUIVALENTS
+================================================================================
+
+AIUB uses a 4.00 letter-grading scale to measure academic performance.
+
+Grade conversion:
+
+A+:
+- Marks: 90%–100%
+- Grade Point: 4.00
+- Remark: Outstanding
+
+A:
+- Marks: 85%–89%
+- Grade Point: 3.75
+- Remark: Excellent
+
+B+:
+- Marks: 80%–84%
+- Grade Point: 3.50
+- Remark: Very Good
+
+B:
+- Marks: 75%–79%
+- Grade Point: 3.25
+- Remark: Good
+
+C+:
+- Marks: 70%–74%
+- Grade Point: 3.00
+- Remark: Satisfactory
+
+C:
+- Marks: 65%–69%
+- Grade Point: 2.75
+- Remark: Above Average
+
+D+:
+- Marks: 60%–64%
+- Grade Point: 2.50
+- Remark: Average
+
+D:
+- Marks: 50%–59%
+- Grade Point: 2.25
+- Remark: Pass / Below Average
+
+F:
+- Marks: Below 50%
+- Grade Point: 0.00
+- Remark: Fail
+
+
+KEYWORDS:
+grading system, grade, letter grade, grade point, GP,
+A+, A, B+, B, C+, C, D+, D, F, marks, percentage,
+4.00 scale, grade conversion
+
+
+================================================================================
+TOPIC 2: NON-GPA ADMINISTRATIVE GRADES
+================================================================================
+
+AIUB uses several administrative grades that are different from normal
+letter grades.
+
+I — Incomplete:
+- Temporary academic status.
+- May be assigned for an approved missed Final Examination or incomplete
+  academic work.
+
+W — Official Withdrawal:
+- Indicates an officially approved course withdrawal within the permitted
+  deadline.
+
+UW — Unofficial Withdrawal:
+- Indicates an unofficial course withdrawal, including withdrawal resulting
+  from attendance shortage according to the applicable rules.
+
+FD — Disciplinary Fail:
+- Indicates failure resulting from academic dishonesty, cheating, or
+  serious examination misconduct.
+
+
+KEYWORDS:
+I grade, incomplete, W, withdrawal, official withdrawal,
+UW, unofficial withdrawal, FD, disciplinary fail,
+administrative grade
+
+
+================================================================================
+TOPIC 3: TERM GPA CALCULATION
+================================================================================
+
+Term GPA is calculated at the end of each semester.
+
+The formula is:
+
+GPA =
+Sum of (Course Credit Hours × Grade Points Earned)
+--------------------------------------------------
+Sum of Total Credits Attempted in the Term
+
+Example:
+
+If a student takes multiple courses with different credit hours and grade
+points, each course's credit hours are multiplied by its grade point.
+The resulting quality points are added together and divided by the total
+credits attempted during the term.
+
+
+KEYWORDS:
+GPA calculation, term GPA, semester GPA, grade point average,
+quality points, credit hours, grade points
+
+
+================================================================================
+TOPIC 4: CUMULATIVE GPA (CGPA) CALCULATION
+================================================================================
+
+CGPA represents the student's overall grade point average across completed
+academic semesters.
+
+The stated formula is:
+
+CGPA =
+Total Quality Points Earned Across All Terms
+--------------------------------------------
+Total Passed / Attempted Credit Hours
+
+CGPA reflects the student's cumulative academic performance across
+multiple semesters.
+
+
+KEYWORDS:
+CGPA calculation, cumulative GPA, cumulative grade point average,
+quality points, total credits, semester GPA, overall GPA
+
+
+================================================================================
+TOPIC 5: EFFECT OF NON-NUMERIC GRADES ON CGPA
+================================================================================
+
+The stated policy specifies the following treatment of administrative
+grades:
+
+W Grade:
+- Does not affect CGPA calculation.
+
+I Grade:
+- Does not affect CGPA calculation while it remains an Incomplete status.
+
+F Grade:
+- Carries 0.00 Grade Point.
+- Is included in CGPA calculation according to the applicable retake rules.
+
+UW Grade:
+- Carries 0.00 Grade Point.
+- Is included in CGPA calculation according to the applicable retake rules.
+
+FD Grade:
+- Carries 0.00 Grade Point.
+- Is factored into CGPA according to the applicable academic and
+  disciplinary rules.
+
+
+KEYWORDS:
+W CGPA, I CGPA, F CGPA, UW CGPA, FD CGPA,
+non-GPA grade, grade impact, CGPA effect
+
+
+================================================================================
+TOPIC 6: ACADEMIC STANDING — GOOD STANDING
+================================================================================
+
+A student is considered to be in Good Academic Standing when the student's
+CGPA is 2.50 or above.
+
+The stated Good Standing requirement applies to both:
+
+- Undergraduate students
+- Graduate students
+
+
+KEYWORDS:
+good academic standing, good standing, CGPA 2.50,
+academic status, undergraduate standing, graduate standing
+
+
+================================================================================
+TOPIC 7: ACADEMIC WARNING
+================================================================================
+
+Academic Warning may be assigned when a student's academic performance
+falls into the specified warning range.
+
+The stated policy defines the warning range as:
+
+- Semester GPA or overall CGPA between 2.00 and 2.49.
+
+Academic Warning serves as a formal notice that the student's academic
+performance needs improvement.
+
+The student should improve academic performance to avoid Academic
+Probation and to meet the 2.50 graduation requirement.
+
+
+KEYWORDS:
+academic warning, warning, GPA 2.00, GPA 2.49,
+CGPA 2.00, CGPA 2.49, academic performance
+
+
+================================================================================
+TOPIC 8: ACADEMIC PROBATION
+================================================================================
+
+Academic Probation may be initiated when:
+
+- A student's CGPA falls below 2.00; or
+- A student remains consistently below the applicable 2.50 academic
+  standard beyond the relevant stage of the degree.
+
+Students on Academic Probation may face additional academic restrictions.
+
+
+KEYWORDS:
+academic probation, probation, CGPA below 2.00,
+probation threshold, low CGPA, academic status
+
+
+================================================================================
+TOPIC 9: ACADEMIC PROBATION RESTRICTIONS
+================================================================================
+
+Students on Academic Probation may be subject to the following restrictions:
+
+1. Maximum Credit Limit:
+   - Course registration may be restricted to approximately 9–12 credit
+     hours per term.
+
+2. Mandatory Advising:
+   - Students may be required to attend regular sessions with the
+     Probation Advising Officer.
+
+3. Student Leadership and Clubs:
+   - Students on probation may be ineligible to hold office in AIUB
+     clubs or associations.
+
+4. Waiver and Scholarship Forfeiture:
+   - The stated policy indicates immediate loss of merit-based tuition
+     waivers and scholarships while under the applicable probation status.
+
+
+KEYWORDS:
+probation credit limit, 9 credits, 12 credits,
+probation advising, academic advisor,
+student clubs, student leadership,
+tuition waiver, scholarship, probation restriction
+
+
+================================================================================
+TOPIC 10: ACADEMIC DISMISSAL
+================================================================================
+
+A student who remains on Academic Probation for two consecutive semesters
+without raising the CGPA above 2.00 may be subject to Academic Dismissal
+from the university.
+
+Academic dismissal means termination of the student's academic enrollment
+under the applicable university regulations.
+
+Readmission or Appeal:
+- A dismissed student may seek readmission or appeal.
+- The stated policy requires formal approval from the Academic Review
+  Committee and the Dean of the respective faculty.
+
+
+KEYWORDS:
+academic dismissal, dismissal, probation two semesters,
+two consecutive semesters, CGPA 2.00,
+readmission, academic appeal, Academic Review Committee, Dean
+
+
+================================================================================
+TOPIC 11: DISCIPLINARY SUSPENSION AND EXPULSION
+================================================================================
+
+Students involved in serious academic misconduct, examination cheating,
+plagiarism, or violations of the university code of conduct may face
+disciplinary action.
+
+Possible disciplinary consequences include:
+
+- FD (Disciplinary Fail) grade.
+- Suspension from AIUB for one or more academic terms.
+- Permanent expulsion from the university.
+
+The severity of the disciplinary action depends on the applicable
+disciplinary rules and circumstances of the violation.
+
+
+KEYWORDS:
+disciplinary suspension, academic misconduct,
+exam cheating, plagiarism, code of conduct,
+FD, suspension, expulsion
+
+
+================================================================================
+TOPIC 12: DEAN'S LIST
+================================================================================
+
+The Dean's List recognizes strong academic performance during a regular
+semester.
+
+According to the stated policy, eligibility requires:
+
+- Term GPA between 3.75 and 4.00.
+- Completion of a full-time credit load, stated as a minimum of
+  approximately 12–15 credits.
+- No F grade during the semester.
+- No UW grade during the semester.
+- No I grade during the semester.
+- No W grade during the semester.
+- No disciplinary action history.
+
+
+KEYWORDS:
+Dean's List, Dean List, term GPA 3.75,
+term GPA 4.00, full-time credits, 12 credits,
+15 credits, F, UW, I, W, academic honors
+
+
+================================================================================
+TOPIC 13: HONORABLE MENTION
+================================================================================
+
+Honorable Mention recognizes students with strong semester academic
+performance below the Dean's List range.
+
+According to the stated policy, eligibility requires:
+
+- Term GPA between 3.50 and 3.74.
+- Full credit load.
+- Clean academic record.
+
+
+KEYWORDS:
+Honorable Mention, honorable mention GPA,
+3.50 GPA, 3.74 GPA, academic recognition,
+semester honors
+
+
+================================================================================
+TOPIC 14: GRADUATION HONORS / CONVOCATION AWARDS
+================================================================================
+
+AIUB graduation honors are based on the student's final CGPA.
+
+Summa Cum Laude:
+- Final CGPA: 3.90–4.00
+- Recognition: Highest Distinction
+
+Magna Cum Laude:
+- Final CGPA: 3.80–3.89
+- Recognition: High Distinction
+
+Cum Laude:
+- Final CGPA: 3.70–3.79
+- Recognition: Distinction
+
+
+KEYWORDS:
+graduation honors, convocation honors,
+Summa Cum Laude, Magna Cum Laude, Cum Laude,
+highest distinction, high distinction, distinction,
+final CGPA
+
+
+================================================================================
+TOPIC 15: ELIGIBILITY RESTRICTIONS FOR GRADUATION HONORS
+================================================================================
+
+The stated policy includes additional restrictions for graduation honors.
+
+A student seeking graduation honors must:
+
+- Complete the degree within the minimum prescribed duration.
+- Have no F grades on the official transcript.
+- Have no UW grades on the official transcript.
+- Have no W grades on the official transcript.
+- Have no retaken courses on the official transcript.
+- Maintain a clean proctorial record.
+- Maintain a clean disciplinary record.
+
+
+KEYWORDS:
+graduation honors eligibility, honors restrictions,
+F grade honors, UW honors, W grade honors,
+retake honors, transcript, proctorial record,
+disciplinary record
+
+
+================================================================================
+TOPIC 16: RETAKING F COURSES AND CGPA
+================================================================================
+
+For undergraduate students, the stated policy provides special treatment
+for retaken F courses.
+
+First four retaken F courses:
+- The new grade replaces the previous F in CGPA calculation.
+
+From the fifth retaken F course onward:
+- Both the previous F and the new grade are factored into CGPA calculation.
+
+
+KEYWORDS:
+retake F, F retake, first four retakes,
+fifth retake, CGPA replacement,
+grade replacement, undergraduate retake
+
+
+================================================================================
+FREQUENTLY ASKED QUESTIONS
+================================================================================
+
+
+Q: What is the highest grade point at AIUB?
+
+A:
+A+ is the highest letter grade and carries a Grade Point of 4.00.
+
+
+Q: What grade point does an A carry?
+
+A:
+An A carries a Grade Point of 3.75.
+
+
+Q: What grade point does a B+ carry?
+
+A:
+A B+ carries a Grade Point of 3.50.
+
+
+Q: What grade point does a B carry?
+
+A:
+A B carries a Grade Point of 3.25.
+
+
+Q: What grade point does a C+ carry?
+
+A:
+A C+ carries a Grade Point of 3.00.
+
+
+Q: What grade point does a C carry?
+
+A:
+A C carries a Grade Point of 2.75.
+
+
+Q: What grade point does a D+ carry?
+
+A:
+A D+ carries a Grade Point of 2.50.
+
+
+Q: What grade point does a D carry?
+
+A:
+A D carries a Grade Point of 2.25.
+
+
+Q: What grade point does an F carry?
+
+A:
+An F carries a Grade Point of 0.00.
+
+
+Q: Does W affect CGPA?
+
+A:
+According to the stated policy, a W grade does not affect CGPA.
+
+
+Q: Does I affect CGPA?
+
+A:
+According to the stated policy, an I grade does not affect CGPA while it
+remains an Incomplete.
+
+
+Q: Does F affect CGPA?
+
+A:
+Yes. An F carries 0.00 Grade Point and is factored into CGPA according to
+the applicable retake rules.
+
+
+Q: What CGPA is required for Good Academic Standing?
+
+A:
+A CGPA of 2.50 or above is required for Good Academic Standing.
+
+
+Q: What happens if my CGPA is between 2.00 and 2.49?
+
+A:
+The stated policy places students in this range under Academic Warning
+depending on whether the semester GPA or overall CGPA falls within the
+specified range.
+
+
+Q: What happens if my CGPA falls below 2.00?
+
+A:
+The student may be placed on Academic Probation. Probation may involve
+a reduced course load, mandatory advising, and other restrictions.
+
+
+Q: How many credits can I take during Academic Probation?
+
+A:
+The stated probationary credit limit is approximately 9–12 credits per
+term.
+
+
+Q: What happens if I remain on probation for two semesters?
+
+A:
+A student who remains on Academic Probation for two consecutive semesters
+without raising the CGPA above 2.00 may be subject to Academic Dismissal.
+
+
+Q: What GPA is required for the Dean's List?
+
+A:
+The stated requirement is a Term GPA of 3.75–4.00 with the required
+full-time course load and a clean academic record.
+
+
+Q: Can I get Dean's List if I have a W grade?
+
+A:
+According to the stated policy, a W grade during the semester makes the
+student ineligible for Dean's List recognition for that term.
+
+
+Q: Can I get Dean's List if I have a UW grade?
+
+A:
+According to the stated policy, a UW grade during the semester makes the
+student ineligible for Dean's List recognition for that term.
+
+
+Q: Can I get Dean's List if I have an F grade?
+
+A:
+According to the stated policy, an F grade during the semester makes the
+student ineligible for Dean's List recognition for that term.
+
+
+Q: What GPA is required for Honorable Mention?
+
+A:
+The stated requirement is a Term GPA of 3.50–3.74 with the required
+full credit load and a clean academic record.
+
+
+Q: What CGPA is required for Summa Cum Laude?
+
+A:
+The stated final CGPA range for Summa Cum Laude is 3.90–4.00.
+
+
+Q: What CGPA is required for Magna Cum Laude?
+
+A:
+The stated final CGPA range for Magna Cum Laude is 3.80–3.89.
+
+
+Q: What CGPA is required for Cum Laude?
+
+A:
+The stated final CGPA range for Cum Laude is 3.70–3.79.
+
+
+Q: Can I receive graduation honors if I retook a course?
+
+A:
+According to the stated policy, students with retaken courses on the
+official transcript are not eligible for graduation honors.
+
+
+Q: Can I receive graduation honors if I have a W grade?
+
+A:
+According to the stated policy, a W grade on the official transcript
+makes the student ineligible for graduation honors.
+
+
+Q: Can I receive graduation honors if I have a UW grade?
+
+A:
+According to the stated policy, a UW grade on the official transcript
+makes the student ineligible for graduation honors.
+
+
+Q: Can I receive graduation honors if I have an F grade?
+
+A:
+According to the stated policy, an F grade on the official transcript
+makes the student ineligible for graduation honors.
+
+
+Q: How are the first four retaken F courses treated?
+
+A:
+For undergraduate students, the new grade replaces the previous F in
+CGPA calculation for the first four retaken F courses.
+
+
+Q: What happens from the fifth retaken F course onward?
+
+A:
+From the fifth retaken F course onward, both the previous F and the new
+grade are factored into CGPA calculation according to the stated policy.
+
+
+================================================================================
+HYBRID RAG SEARCH KEYWORDS
+================================================================================
+
+grade
+grading system
+letter grade
+grade point
+GP
+GPA
+CGPA
+term GPA
+semester GPA
+cumulative GPA
+quality points
+A+
+A
+B+
+B
+C+
+C
+D+
+D
+F
+4.00
+3.75
+3.50
+3.25
+3.00
+2.75
+2.50
+2.25
+0.00
+I
+Incomplete
+W
+Official Withdrawal
+UW
+Unofficial Withdrawal
+FD
+Disciplinary Fail
+good standing
+academic standing
+academic warning
+academic probation
+probation
+CGPA below 2.00
+CGPA 2.00
+CGPA 2.49
+CGPA 2.50
+probation credits
+9 credits
+12 credits
+probation advising
+academic dismissal
+two consecutive semesters
+readmission
+academic appeal
+Academic Review Committee
+Dean
+suspension
+expulsion
+academic dishonesty
+cheating
+plagiarism
+Dean's List
+Dean List
+Honorable Mention
+semester honors
+term GPA 3.75
+term GPA 3.50
+Summa Cum Laude
+Magna Cum Laude
+Cum Laude
+graduation honors
+convocation honors
+final CGPA
+retake
+retaken course
+F retake
+grade replacement
+first four retakes
+fifth retake
+transcript
+proctorial record
+disciplinary record

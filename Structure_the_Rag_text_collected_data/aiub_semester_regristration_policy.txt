@@ -1,0 +1,679 @@
+================================================================================
+AMERICAN INTERNATIONAL UNIVERSITY-BANGLADESH (AIUB)
+ACADEMIC SEMESTER SYSTEM & COURSE REGISTRATION REGULATIONS
+RAG KNOWLEDGE BASE
+==================
+
+SOURCE:
+AIUB Academic Semester System & Registration Regulations
+
+CATEGORY:
+Academic Policy | Semester System | Course Registration | Add/Drop | Withdrawal | Retake
+
+================================================================================
+TOPIC 1: AIUB SEMESTER SYSTEM
+=============================
+
+AIUB operates on a Tri-Semester System. There are three regular academic semesters in a calendar year.
+
+1. Spring Semester
+
+* Starts in January.
+* Duration: approximately 14–16 weeks.
+
+2. Summer Semester
+
+* Starts in May.
+* Duration: approximately 14–16 weeks.
+
+3. Fall Semester
+
+* Starts in September.
+* Duration: approximately 14–16 weeks.
+
+Therefore, AIUB has three regular semesters in one academic year:
+Spring, Summer, and Fall.
+
+KEYWORDS:
+AIUB semester system, three semesters, tri-semester, Spring semester,
+Summer semester, Fall semester, semester duration, academic year
+
+================================================================================
+TOPIC 2: SEMESTER TERM STRUCTURE
+================================
+
+Each regular semester is divided into two academic evaluation terms:
+
+1. Midterm Term
+
+* The first half of the semester.
+* Includes midterm academic evaluation and examinations.
+
+2. Final Term
+
+* The second half of the semester.
+* Includes final academic evaluation and final examinations.
+
+KEYWORDS:
+midterm term, final term, semester evaluation, midterm, final term,
+academic evaluation, semester structure
+
+================================================================================
+TOPIC 3: REGULAR CREDIT LOAD
+============================
+
+Undergraduate Students:
+
+* Standard semester credit load: 12 to 18 Credit Hours.
+* This normally corresponds to approximately 4 to 6 courses.
+
+Graduate Students:
+
+* MBA / MS standard semester credit load: 6 to 12 Credit Hours.
+
+Minimum Credit Load:
+
+* Students normally need to register for at least 9 Credit Hours
+  in a regular semester to maintain full-time student status.
+* An exception may apply during the student's final graduating semester.
+
+KEYWORDS:
+credit load, credit hours, undergraduate credit load, graduate credit load,
+minimum credits, maximum credits, full-time student, AIUB credits,
+semester course load
+
+================================================================================
+TOPIC 4: MAXIMUM CREDIT LOAD AND OVERLOAD
+=========================================
+
+Students with a CGPA of 3.50 or higher may apply for an overload.
+
+Maximum overload:
+
+* Up to 21 Credit Hours per semester.
+* Overload requires approval from the departmental academic advisor.
+
+Therefore:
+
+* Standard undergraduate load: 12–18 credits.
+* Overload possibility: up to 21 credits for eligible students with
+  CGPA 3.50 or higher and advisor approval.
+
+KEYWORDS:
+overload, 21 credits, maximum credit hours, CGPA 3.50,
+advisor approval, extra credits, additional course
+
+================================================================================
+TOPIC 5: CREDIT LIMIT FOR ACADEMIC PROBATION
+============================================
+
+Students on Academic Probation have a restricted semester credit load.
+
+Probationary Credit Limit:
+
+* Maximum approximately 9 to 12 Credit Hours per semester.
+
+Academic Probation therefore limits the number of courses a student
+can register for in a semester.
+
+KEYWORDS:
+academic probation credits, probation credit limit, 9 credits,
+12 credits, restricted course load, probation registration
+
+================================================================================
+TOPIC 6: COURSE REGISTRATION THROUGH VUES
+=========================================
+
+Course registration is conducted digitally through the VUES
+(Virtual University Expert System) portal.
+
+Registration takes place during the designated registration window
+published in the official Academic Calendar.
+
+Basic registration process:
+
+1. Check the registration schedule and assigned timeslot.
+2. Access the VUES portal.
+3. Select eligible courses.
+4. Select available course sections and time-slots.
+5. Follow the official curriculum flow-chart.
+6. Confirm registration by completing the required payment.
+
+Registration timeslots are allocated based on:
+
+* Total earned credits.
+* Academic standing.
+
+Students should select courses according to their official curriculum
+and academic progression.
+
+KEYWORDS:
+VUES registration, course registration, AIUB VUES, registration portal,
+registration window, registration timeslot, earned credits,
+academic standing, course section, curriculum flow chart
+
+================================================================================
+TOPIC 7: REGISTRATION SLOT ALLOCATION
+=====================================
+
+AIUB registration timeslots are assigned based on a student's:
+
+* Total earned credit hours.
+* Academic standing.
+
+Students receive their designated registration opportunity and then
+select available courses and sections through VUES.
+
+KEYWORDS:
+registration slot, registration timeslot, earned credits,
+academic standing, VUES slot, course registration time
+
+================================================================================
+TOPIC 8: COURSE PREREQUISITES
+=============================
+
+A prerequisite is a foundational course that must be successfully
+completed before a student can register for a higher-level course.
+
+Prerequisite Rule:
+
+* The prerequisite course must be passed before registering for the
+  dependent/higher-level course.
+* VUES automatically checks prerequisite completion.
+* A prerequisite must normally be passed with at least a 'D' grade.
+
+If the prerequisite has not been passed with the required minimum grade,
+VUES blocks registration for the next course.
+
+KEYWORDS:
+course prerequisite, prerequisite course, prerequisite requirement,
+VUES prerequisite check, minimum D grade, prerequisite registration,
+course dependency
+
+================================================================================
+TOPIC 9: PREREQUISITE WAIVER AND CO-REQUISITE REQUEST
+=====================================================
+
+Prerequisite waivers or co-requisite requests may be considered only
+under exceptional circumstances.
+
+Such requests are primarily applicable to graduating seniors and require
+approval from the Department Head.
+
+A prerequisite waiver is therefore not an automatic registration option.
+
+KEYWORDS:
+prerequisite waiver, prerequisite exception, co-requisite,
+graduating senior, Department Head approval, course waiver
+
+================================================================================
+TOPIC 10: REGISTRATION CONFIRMATION AND PAYMENT
+===============================================
+
+Course registration is temporary until the registration is confirmed
+through the required payment.
+
+To confirm registration:
+
+* Students must pay the required registration deposit or tuition
+  installment.
+* Payment must be completed by the announced deadline.
+
+If registration is not confirmed through payment by the deadline:
+
+* The registration may be automatically canceled/dropped by the system.
+* The student may need to register again during a later registration
+  period, subject to availability and applicable rules.
+
+KEYWORDS:
+registration confirmation, confirm registration, registration payment,
+tuition installment, registration deposit, payment deadline,
+unconfirmed registration, course dropped, VUES
+
+================================================================================
+TOPIC 11: ADD/DROP WEEK
+=======================
+
+Course Add/Drop is allowed during the official Add/Drop period.
+
+Period:
+
+* Normally during the first week of classes.
+* The exact dates are specified in the Academic Calendar.
+
+Procedure:
+
+* Courses can be added or dropped online through the VUES portal.
+
+Financial Adjustment:
+
+* Dropping a course during the official Add/Drop window results in
+  full financial credit toward other added courses without penalty,
+  according to the provided policy.
+
+KEYWORDS:
+add drop, add/drop week, course drop, course add,
+VUES add drop, first week, academic calendar, financial credit,
+course change
+
+================================================================================
+TOPIC 12: COURSE WITHDRAWAL — W GRADE
+=====================================
+
+After the official Add/Drop deadline, a student may withdraw from a
+course during the approved withdrawal period.
+
+Official Withdrawal Period:
+
+* From after the Add/Drop deadline until the announced Midterm
+  withdrawal cutoff.
+
+Result:
+
+* The student receives a 'W' (Official Withdrawal) grade on the
+  academic transcript.
+
+CGPA Impact:
+
+* A 'W' grade does NOT affect CGPA calculation.
+
+Financial Impact:
+
+* Tuition fees for the withdrawn course are non-refundable.
+
+Academic Honor Impact:
+
+* A 'W' grade disqualifies the student from Dean's List and
+  Convocation Graduation Distinction (Honors), according to the
+  provided policy.
+
+KEYWORDS:
+W grade, withdrawal, official withdrawal, course withdrawal,
+midterm withdrawal, W transcript, CGPA W grade, tuition refund,
+Dean's List W, graduation honors W
+
+================================================================================
+TOPIC 13: DIFFERENCE BETWEEN ADD/DROP AND WITHDRAWAL
+====================================================
+
+ADD/DROP:
+
+* Takes place during the official Add/Drop period.
+* Normally during the first week of classes.
+* Processed through VUES.
+* Course can be added or dropped during this period.
+* Financial adjustment may apply according to the Add/Drop policy.
+
+WITHDRAWAL:
+
+* Takes place after the Add/Drop deadline.
+* Must occur before the announced Midterm withdrawal cutoff.
+* Results in a 'W' grade.
+* W does not affect CGPA.
+* Tuition fees are non-refundable.
+* W can affect eligibility for academic honors.
+
+KEYWORDS:
+add drop vs withdrawal, difference between W and drop,
+course drop, course withdrawal, W grade, Add/Drop deadline,
+withdrawal deadline
+
+================================================================================
+TOPIC 14: RETAKING FAILED COURSES
+=================================
+
+If a student fails a course with an 'F' or 'UW' grade, the student must
+retake and pass the course if it is a core or required subject.
+
+Retake Grade Replacement Rule for Undergraduate Students:
+
+* First four (4) retaken 'F' subjects:
+  The new grade replaces the previous 'F' in CGPA calculation.
+
+* From the 5th retaken course onward:
+  Both the old and new grades are factored into the cumulative average.
+
+This rule applies to the provided undergraduate retake policy.
+
+KEYWORDS:
+course retake, failed course, F grade, UW grade, retake F,
+grade replacement, first four retakes, fifth retake,
+CGPA retake, failed core course
+
+================================================================================
+TOPIC 15: REPEATING A PASSED COURSE FOR GRADE IMPROVEMENT
+=========================================================
+
+A student may repeat a course that they have already passed for
+grade improvement if the earned grade is below C+.
+
+Eligibility:
+
+* Previous grade must be below C+.
+* Grade Point must be less than 2.50.
+
+Courses with grades of B or higher cannot be retaken for grade
+improvement under the provided policy.
+
+For eligible grade-improvement attempts:
+
+* Both attempts appear on the academic transcript.
+* The higher grade is used for CGPA calculation, subject to
+  university limits.
+
+KEYWORDS:
+grade improvement, repeat course, retake passed course,
+improve CGPA, C+ requirement, below C+, grade point 2.50,
+B grade, higher grade, repeated course
+
+================================================================================
+TOPIC 16: REGISTRATION PAYMENT NOT COMPLETED ON TIME
+====================================================
+
+If a student does not complete the required registration payment by
+the announced deadline:
+
+* The selected course sections may be automatically dropped from
+  the VUES portal.
+* The student may need to register again during late registration.
+* Re-registration is subject to available seats.
+* Late registration fees may apply.
+
+Therefore, students should complete registration confirmation and
+payment within the announced deadline.
+
+KEYWORDS:
+late registration, missed payment deadline, course dropped,
+registration fee, VUES dropped courses, seat availability,
+late fee, registration confirmation
+
+================================================================================
+TOPIC 17: COMMON REGISTRATION SCENARIOS
+=======================================
+
+Scenario 1:
+A student wants to register for a course but has not passed its
+prerequisite.
+
+Result:
+VUES blocks registration because the prerequisite requirement has
+not been satisfied.
+
+Scenario 2:
+A student has CGPA 3.60 and wants to take additional courses.
+
+Result:
+The student may apply for an overload up to 21 credits, subject to
+departmental advisor approval.
+
+Scenario 3:
+A student is on Academic Probation and wants to register for 18 credits.
+
+Result:
+The student is restricted to the probationary credit limit of
+approximately 9–12 credits.
+
+Scenario 4:
+A student drops a course during the official Add/Drop Week.
+
+Result:
+The course can be dropped through VUES during the permitted period,
+and the applicable financial adjustment is made according to the
+Add/Drop policy.
+
+Scenario 5:
+A student withdraws from a course after Add/Drop but before the
+Midterm withdrawal deadline.
+
+Result:
+The student receives a W grade. The W does not affect CGPA, but the
+course tuition is non-refundable and the W can affect honors eligibility.
+
+Scenario 6:
+A student fails a required course.
+
+Result:
+The student must retake and pass the course if it is a core/required
+subject.
+
+Scenario 7:
+A student passed a course with a grade below C+ and wants to improve it.
+
+Result:
+The student may retake the course for grade improvement under the
+provided policy.
+
+Scenario 8:
+A student does not confirm registration by paying the required amount
+before the deadline.
+
+Result:
+The selected registration may be automatically canceled/dropped,
+and the student may need to re-register during late registration,
+subject to seat availability and applicable fees.
+
+================================================================================
+TOPIC 18: FREQUENTLY ASKED QUESTIONS
+====================================
+
+Q: How many semesters are there in a year at AIUB?
+A: AIUB follows a tri-semester system with three regular semesters:
+Spring, Summer, and Fall.
+
+Q: When does the Spring semester start?
+A: The Spring semester starts in January.
+
+Q: When does the Summer semester start?
+A: The Summer semester starts in May.
+
+Q: When does the Fall semester start?
+A: The Fall semester starts in September.
+
+Q: How many credits can an undergraduate student normally take?
+A: The standard undergraduate credit load is 12 to 18 Credit Hours
+per semester.
+
+Q: Can I take more than 18 credits?
+A: Students with a CGPA of 3.50 or higher may apply for an overload
+of up to 21 Credit Hours, subject to departmental advisor approval.
+
+Q: How many credits can a student on Academic Probation take?
+A: Students on Academic Probation are restricted to approximately
+9 to 12 Credit Hours per semester.
+
+Q: Where do I register for courses?
+A: Course registration is conducted online through the VUES portal.
+
+Q: Why can't I register for a course?
+A: One common reason is that the required prerequisite course has not
+been passed with the required minimum grade.
+
+Q: What is the minimum grade required to satisfy a prerequisite?
+A: The provided policy states that the prerequisite must be passed
+with at least a D grade.
+
+Q: Can a prerequisite be waived?
+A: A prerequisite or co-requisite waiver may be considered under
+exceptional circumstances for graduating seniors, subject to
+Department Head approval.
+
+Q: What is Add/Drop?
+A: Add/Drop is the official period, normally during the first week
+of classes, when students can add or drop courses through VUES.
+
+Q: What happens if I withdraw from a course after Add/Drop?
+A: You receive a W grade if the withdrawal is within the approved
+withdrawal period.
+
+Q: Does W affect CGPA?
+A: No. A W grade does not affect CGPA according to the provided policy.
+
+Q: Are tuition fees refunded after withdrawing from a course?
+A: No. Tuition fees for a withdrawn course are non-refundable.
+
+Q: Can I retake a failed course?
+A: Yes. If a student fails a core or required course with F or UW,
+the course must be retaken and passed.
+
+Q: How are the first four retaken F courses treated in CGPA?
+A: For the first four retaken F subjects in an undergraduate program,
+the new grade replaces the F in CGPA calculation.
+
+Q: What happens from the 5th retaken F course onward?
+A: From the 5th retaken course onward, both the old and new grades
+are factored into the CGPA.
+
+Q: Can I retake a course that I already passed?
+A: Yes, if the previous grade is below C+ (Grade Point below 2.50),
+subject to the applicable university rules.
+
+Q: Can I retake a course where I received B or higher?
+A: According to the provided policy, courses with B or higher cannot
+be retaken for grade improvement.
+
+Q: What happens if I do not pay the registration fee on time?
+A: The selected course sections may be automatically dropped from
+VUES. The student may need to re-register during late registration,
+subject to seat availability and applicable late fees.
+
+================================================================================
+HYBRID RAG SEARCH KEYWORDS
+==========================
+
+AIUB semester
+AIUB semester system
+tri semester
+three semesters
+three semesters per year
+Spring semester
+Summer semester
+Fall semester
+January semester
+May semester
+September semester
+semester duration
+midterm term
+final term
+academic term
+
+AIUB credits
+credit hours
+credit load
+undergraduate credits
+graduate credits
+MBA credits
+MS credits
+minimum credits
+maximum credits
+full-time credits
+21 credits
+18 credits
+12 credits
+9 credits
+overload
+credit overload
+CGPA 3.50 overload
+probation credit limit
+
+VUES
+VUES registration
+course registration
+online registration
+registration window
+registration slot
+registration timeslot
+earned credits
+academic standing
+course section
+curriculum flow chart
+registration confirmation
+registration payment
+tuition installment
+registration deposit
+payment deadline
+
+prerequisite
+course prerequisite
+prerequisite check
+minimum D
+prerequisite waiver
+co-requisite
+Department Head approval
+graduating senior
+
+Add Drop
+Add/Drop Week
+course add
+course drop
+first week
+withdrawal
+W grade
+official withdrawal
+midterm withdrawal
+withdrawal deadline
+non-refundable tuition
+Dean's List
+graduation honors
+
+retake
+repeat course
+failed course
+F grade
+UW grade
+grade replacement
+first four retakes
+fifth retake
+grade improvement
+below C+
+C+ 2.50
+B grade
+higher grade
+CGPA improvement
+
+late registration
+missed registration payment
+course automatically dropped
+late fee
+seat availability
+registration deadline
+
+================================================================================
+RAG METADATA
+============
+
+source:
+aiub_academic_semester_registration_regulations
+
+category:
+academic_policy
+
+subcategories:
+semester_system
+credit_load
+course_registration
+prerequisite
+registration_confirmation
+add_drop
+withdrawal
+retake
+grade_improvement
+
+document_type:
+university_academic_policy
+
+retrieval_priority_topics:
+semester system
+credit load
+registration
+VUES
+prerequisite
+Add/Drop
+withdrawal
+W grade
+retake
+grade improvement
+registration payment
+
+================================================================================
+END OF DOCUMENT
+===============

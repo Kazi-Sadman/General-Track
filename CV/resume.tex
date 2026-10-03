@@ -1,0 +1,147 @@
+\documentclass[9pt]{article}
+
+\usepackage[top=0.3in, bottom=0.25in, left=0.5in, right=0.5in]{geometry}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{tabularx}
+
+\definecolor{gold}{HTML}{C9A24B}
+\definecolor{darktext}{HTML}{1A1A1A}
+\definecolor{graytext}{HTML}{555555}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0pt}
+\raggedbottom
+
+\hypersetup{colorlinks=true, urlcolor=darktext}
+\linespread{0.91}
+
+% Section heading: bold caps + thin gold rule underneath
+\titleformat{\section}{\bfseries\large\color{darktext}}{}{0em}{}[\color{gold}\titlerule]
+\titlespacing{\section}{0pt}{3pt}{1pt}
+
+% Compact bullet list
+\newenvironment{tightlist}{\begin{itemize}[leftmargin=13pt, itemsep=0pt, topsep=0pt, parsep=0pt]}{\end{itemize}}
+
+% Title + right-aligned date row
+\newcommand{\entry}[2]{%
+  \textbf{#1} \hfill \textbf{\textcolor{graytext}{#2}}\par
+}
+
+\begin{document}
+
+% ---------- HEADER ----------
+\begin{center}
+  {\fontsize{22}{24}\selectfont\bfseries\color{darktext} KAZI SADMAN ZAHIN}\\[2pt]
+  {\large\color{graytext} COMPUTER SCIENCE \& ENGINEERING STUDENT}\\[6pt]
+  {\small Dhaka, Bangladesh \textcolor{gold}{|} kazisadman897@gmail.com \textcolor{gold}{|} 01886677655 \textcolor{gold}{|} \href{https://github.com/Kazi-Sadman/}{GitHub} \textcolor{gold}{|} \href{https://www.linkedin.com/in/sadman-zahin-2777143bb/}{LinkedIn}}
+\end{center}
+\vspace{-8pt}
+\color{gold}\hrule
+\color{black}
+
+% ---------- CONTACT ----------
+\section*{CONTACT}
+Phone: 01886677655 \quad Email: kazisadman897@gmail.com \quad Location: Dhaka, Bangladesh \quad GitHub: \href{https://github.com/Kazi-Sadman/}{github.com/Kazi-Sadman} \quad LinkedIn: \href{https://www.linkedin.com/in/sadman-zahin-2777143bb/}{linkedin.com/in/sadman-zahin}
+
+% ---------- OBJECTIVE ----------
+\section*{OBJECTIVE}
+Computer Science and Engineering student with strong skills in programming, database management, networking, operating systems, and cybersecurity fundamentals. Experienced in developing software and database-driven applications using C++, Java, Python, C\#, React, Flask, and SQL. Seeking a banking IT role to contribute to software development, IT operations, system support, and secure technology solutions.
+
+% ---------- SKILLS (two columns) ----------
+\section*{SKILLS}
+\begin{tabularx}{\linewidth}{@{}X X@{}}
+\textbf{Professional Skills} &
+\textbf{Technical Skills} \\[2pt]
+\begin{minipage}[t]{\linewidth}
+\begin{tightlist}
+  \item Problem Solving \& Analytical Thinking
+  \item Communication \& Teamwork
+  \item Time Management
+  \item Adaptability \& Quick Learning
+  \item Attention to Detail
+  \item Critical Thinking
+\end{tightlist}
+\end{minipage}
+&
+\begin{minipage}[t]{\linewidth}
+\begin{tightlist}
+  \item \textbf{Programming:} C++, Java, Python, C\#, SQL
+  \item \textbf{Database:} MySQL, PostgreSQL, Microsoft SQL Server
+  \item \textbf{Web \& Backend:} HTML, CSS, JavaScript, React, Flask, FastAPI, REST API
+  \item \textbf{IT \& Systems:} Networking, Operating Systems, Sys. Admin, IT Troubleshooting
+\end{tightlist}
+\end{minipage} \\
+\end{tabularx}
+
+% ---------- PROJECTS ----------
+\section*{PROJECTS}
+
+\textbf{Student-Course Enrollment System (Full-Stack)}
+\begin{tightlist}
+  \item Built a full-stack enrollment platform with a React front-end and a FastAPI back-end, following a layered Routes $\rightarrow$ Services $\rightarrow$ Models $\rightarrow$ Database architecture.
+  \item Modeled Student, Course, Department, and Enrollment entities with SQLAlchemy ORM and Pydantic-based request/response validation.
+  \item Implemented enrollment business rules including duplicate-enrollment prevention and relationship-based lookups (courses by student, students by course).
+  \item Built and tested full CRUD REST APIs across all four modules using Postman.
+\end{tightlist}
+
+\textbf{SMS Spam Detection System}
+\begin{tightlist}
+  \item Built an SMS spam classifier in Python using NLP preprocessing (tokenization, stopword removal, stemming) and TF-IDF vectorization (3{,}000 features) on the SMS Spam Collection dataset (5{,}572 messages, cleaned to 5{,}169).
+  \item Trained and compared 7 models --- Multinomial/Bernoulli Naive Bayes, Logistic Regression, SVM, Random Forest, Voting and Stacking ensembles --- selecting a Voting Classifier as the final model for its precision--performance balance.
+  \item Deployed the model as a live Streamlit web app; co-authored an accompanying research paper (in preparation for conference submission).
+\end{tightlist}
+
+\textbf{Hostel Management System}
+\begin{tightlist}
+  \item Built a desktop hostel management system in C\# (Windows Forms, .NET Framework) with Microsoft SQL Server via ADO.NET.
+  \item Implemented Student, Room, Employee, and Payment modules with role-based access for Admin and Receptionist users.
+  \item Built a dashboard tracking total students, room/bed availability, and payment status across 6 relational tables.
+\end{tightlist}
+
+% ---------- EXPERIENCE ----------
+\section*{EXPERIENCE}
+
+\entry{Project Engineer (Academic Role) --- Hospital Appointment Booking System}{[Project Date]}
+\begin{tightlist}
+  \item Collaborated with 2 teammates to build a full-stack hospital appointment system (PHP, MySQL, JavaScript, AJAX) under a strict MVC architecture with shared database/authentication.
+  \item Owned the Admin module: doctor and specialization management with live AJAX search, system-wide appointment oversight, and patient account management.
+  \item Implemented secure authentication (bcrypt hashing, session-based RBAC) with dual-layer client/server validation.
+  \item Used prepared statements to prevent SQL injection across Admin, Doctor, and Patient modules.
+\end{tightlist}
+
+% ---------- PUBLICATIONS ----------
+\section*{PUBLICATIONS}
+
+\textbf{Scaffold-Aware Drug Solubility Classification: Quantifying Generalization Gaps in Machine Learning Models with SMOTE and Extended Molecular Fingerprints on AqSolDB}
+\begin{tightlist}
+  \item Accepted for publication, BECITHCON 2026.
+\end{tightlist}
+
+\textbf{Spam Message Detection in SMS Using Machine Learning Techniques}
+\begin{tightlist}
+  \item In preparation for conference submission; co-authored with Abdur Rahman Tanvir and Zannatun Nur.
+\end{tightlist}
+
+% ---------- COMPETITIVE PROGRAMMING ----------
+\section*{COMPETITIVE PROGRAMMING}
+\begin{tightlist}
+  \item CodeChef --- 2-Star, max rating 1403
+  \item LeetCode --- judge rating 1483
+  \item Solved 700+ problems across Codeforces, CodeChef, LeetCode, LightOJ, and Toph
+  \item Strong foundation in algorithms, data structures, and logical problem-solving built through consistent practice.
+\end{tightlist}
+
+% ---------- EDUCATION ----------
+\section*{EDUCATION}
+
+\entry{B.Sc. in Computer Science \& Engineering --- AIUB}{2023 -- 2027}
+\begin{tightlist}
+  \item American International University-Bangladesh (AIUB), Dhaka, Bangladesh
+  \item CGPA: 3.60 / 4.00
+\end{tightlist}
+
+\end{document}
